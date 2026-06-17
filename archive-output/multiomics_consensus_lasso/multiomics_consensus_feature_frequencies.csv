@@ -1,0 +1,791 @@
+feature,count,frequency,rank,modality
+quest__Vitamin B12,299,0.42714285714285716,1,quest
+species__Dysosmobacter_welbionis,295,0.42142857142857143,2,species
+metab__1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),278,0.39714285714285713,3,metab
+metab__N-palmitoyl-sphingosine (d18:1/16:0),276,0.3942857142857143,4,metab
+metab__N-acetylglutamate,265,0.37857142857142856,5,metab
+metab__3-(4-hydroxyphenyl)lactate,263,0.3757142857142857,6,metab
+species__GGB1266_SGB1699,259,0.37,7,species
+metab__1-methylurate,257,0.36714285714285716,8,metab
+metab__N4-acetylcytidine,256,0.3657142857142857,9,metab
+"metab__sphingomyelin (d18:1/24:1, d18:2/24:0)*",229,0.3271428571428571,10,metab
+metab__N-acetylglucosamine/N-acetylgalactosamine,222,0.3171428571428571,11,metab
+metab__vanillylmandelate (VMA),195,0.2785714285714286,12,metab
+species__Phocaeicola_plebeius,185,0.2642857142857143,13,species
+immune_res__% CD4+ CD161+ Va7.2- d6,159,0.22714285714285715,14,immune_res
+immune_pct__CD8+ DN+ MAIT % RO- CD27- d0,157,0.22428571428571428,15,immune_pct
+immune_pct__% CD4+ RO+ CD161+ IL-17+ INFg+ d6,156,0.22285714285714286,16,immune_pct
+immune_pct__% CD4+ CD161+ Va7.2- d6,142,0.20285714285714285,17,immune_pct
+species__Odoribacter_splanchnicus,134,0.19142857142857142,18,species
+immune_res__% CD8+ M CCR6+ CXCR3- d0,131,0.18714285714285714,19,immune_res
+species__Bacteroides_ovatus,130,0.18571428571428572,20,species
+species__Faecalibacterium_SGB15346,127,0.18142857142857144,21,species
+species__Clostridium_sp_AM49_4BH,119,0.17,22,species
+species__Ruminococcaceae_unclassified_SGB4191,114,0.16285714285714287,23,species
+immune_pct__% CD4+ RO+ CD161+ total IL-17+ d6,109,0.15571428571428572,24,immune_pct
+quest__Potassium,108,0.15428571428571428,25,quest
+immune_res__% CD8+ INFg+ TNFa- d1 P8,107,0.15285714285714286,26,immune_res
+immune_pct__% CD8+ INFg+ TNFa- d1 P8,106,0.15142857142857144,27,immune_pct
+immune_pct__% DN RO+ CCR6+ d1,104,0.14857142857142858,28,immune_pct
+immune_res__% DN RO+ CCR6+ d1,103,0.14714285714285713,29,immune_res
+immune_res__% CD4+ RO+ CD161+ total IL-17+ d6,101,0.1442857142857143,30,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161- d6,98,0.14,31,immune_res
+species__Barnesiella_intestinihominis,94,0.13428571428571429,32,species
+species__Clostridiaceae_bacterium,85,0.12142857142857143,33,species
+immune_pct__% CD4+ RO- CD27- (TEMRA) d0,82,0.11714285714285715,34,immune_pct
+immune_pct__NK Cells (% CD3- 2B4+),81,0.11571428571428571,35,immune_pct
+immune_pct__% viable CD3- CCR6- GzA+ INFg+ d1,80,0.11428571428571428,36,immune_pct
+immune_res__% viable CD3- CCR6- GzA+ INFg+ d1,78,0.11142857142857143,37,immune_res
+immune_res__NK Cells (% CD3- 2B4+),76,0.10857142857142857,38,immune_res
+immune_res__% CD8+ RO+ CCR6+ d1,72,0.10285714285714286,39,immune_res
+species__Dialister_invisus,72,0.10285714285714286,40,species
+immune_pct__% CD8+ RO+ CCR6+ d1,68,0.09714285714285714,41,immune_pct
+species__Faecalibacterium_prausnitzii,68,0.09714285714285714,42,species
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL-17+ d1,67,0.09571428571428571,43,immune_pct
+quest__Non HDL Cholesterol,67,0.09571428571428571,44,quest
+immune_res__% CD8+ MAIT INFg+ GzA+ d1,66,0.09428571428571429,45,immune_res
+immune_res__% CD8+ RO- CCR7+ d0,66,0.09428571428571429,46,immune_res
+immune_pct__% CD4+ RO- CCR7- d0,65,0.09285714285714286,47,immune_pct
+species__Bacteroides_uniformis,64,0.09142857142857143,48,species
+species__Clostridium_sp_AF34_10BH,63,0.09,49,species
+species__Roseburia_sp_AF02_12,63,0.09,50,species
+immune_res__% CD8+ RO+ CCR6- INFg+ TNFa- d1,62,0.08857142857142856,51,immune_res
+quest__Globulin,62,0.08857142857142856,52,quest
+species__Paraprevotella_clara,59,0.08428571428571428,53,species
+immune_res__% CD4+ RO- CCR7- d0,58,0.08285714285714285,54,immune_res
+species__Collinsella_aerofaciens,56,0.08,55,species
+immune_res__% CD8+ INFg+ IL4+ d1,55,0.07857142857142857,56,immune_res
+immune_res__% CD4+ RO+ CD161+ IL-17+ INFg+ d6,54,0.07714285714285714,57,immune_res
+immune_res__% viable CD3- CCR6- d1,54,0.07714285714285714,58,immune_res
+species__Clostridium_sp_AF15_49,53,0.07571428571428572,59,species
+species__GGB9635_SGB15106,53,0.07571428571428572,60,species
+immune_pct__% CD8+ MAIT INFg+ GzA+ d1,52,0.07428571428571429,61,immune_pct
+species__Bacteroides_stercoris,52,0.07428571428571429,62,species
+immune_res__% CD19+ CD3- CD27+ IgG+ d0,51,0.07285714285714286,63,immune_res
+metab__4-vinylguaiacol sulfate,49,0.07,64,metab
+immune_pct__% CD4+ MAIT d6,47,0.06714285714285714,65,immune_pct
+species__Flavonifractor_plautii,47,0.06714285714285714,66,species
+immune_res__DN % RO+ CD27- d0,46,0.06571428571428571,67,immune_res
+species__Ruminococcaceae_unclassified_SGB15265,46,0.06571428571428571,68,species
+immune_res__CD4:CD8 d0,45,0.06428571428571428,69,immune_res
+immune_pct__% CD4+ CCR7+ RO- CCR4+ d0,44,0.06285714285714286,70,immune_pct
+immune_pct__% CD14+ d0,42,0.06,71,immune_pct
+immune_pct__% CD4+ M CD25+ CD27- d0,42,0.06,72,immune_pct
+immune_pct__% viable CD3- CCR6- d1,42,0.06,73,immune_pct
+immune_res__% CD4+ CCR7+ RO- CCR4+ d0,42,0.06,74,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161+ d6,41,0.05857142857142857,75,immune_res
+immune_pct__CD3+ gdTCR+ CD3lo,40,0.05714285714285714,76,immune_pct
+immune_res__% CD4+ MAIT d6,40,0.05714285714285714,77,immune_res
+immune_res__CD3+ gdTCR+ CD3lo,40,0.05714285714285714,78,immune_res
+species__Alistipes_communis,40,0.05714285714285714,79,species
+species__GGB3293_SGB4348,40,0.05714285714285714,80,species
+species__Clostridia_unclassified_SGB4367,39,0.055714285714285716,81,species
+immune_res__% CD8+ RO+ CCR6- IL4+ GMCSF- d1,37,0.05285714285714286,82,immune_res
+species__Bacteroides_fragilis,36,0.05142857142857143,83,species
+bmi,34,0.04857142857142857,84,metadata
+immune_pct__% CD19+ CD3- CD27+ IgG+ d0,32,0.045714285714285714,85,immune_pct
+immune_pct__% CD8+ M total CCR6+ d0,32,0.045714285714285714,86,immune_pct
+species__Bacteroides_thetaiotaomicron,32,0.045714285714285714,87,species
+immune_pct__% CD8+ RO+ CCR6- IL4+ GMCSF- d1,29,0.041428571428571426,88,immune_pct
+quest__Monocytes,29,0.041428571428571426,89,quest
+immune_pct__CD8+ MAIT % RO- CD27- d0,28,0.04,90,immune_pct
+species__Clostridium_sp_AF34_13,28,0.04,91,species
+species__Pseudoruminococcus_massiliensis,28,0.04,92,species
+immune_res__% CD8+ M CCR6+ CXCR3+ d0,27,0.03857142857142857,93,immune_res
+species__Bacteroides_cellulosilyticus,27,0.03857142857142857,94,species
+species__Dorea_longicatena,27,0.03857142857142857,95,species
+species__Lachnospira_sp_NSJ_43,27,0.03857142857142857,96,species
+species__Acidaminococcus_intestini,26,0.037142857142857144,97,species
+species__GGB6613_SGB9347,25,0.03571428571428571,98,species
+immune_pct__% CD4+ RO+ CCR6+ CD161+ total IL-17+ d6,24,0.03428571428571429,99,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ IL-22+ IL-17+ d1,24,0.03428571428571429,100,immune_pct
+immune_pct__% CD8+ RO+ CCR6- INFg+ TNFa- d1,24,0.03428571428571429,101,immune_pct
+immune_pct__% CD4+ RO+ INFg- GMCSF+ d1,23,0.032857142857142856,102,immune_pct
+immune_res__% DN RO- CCR6- total TNFa+ d1,23,0.032857142857142856,103,immune_res
+immune_pct__% DN RO- CCR6- total TNFa+ d1,22,0.03142857142857143,104,immune_pct
+species__GGB6601_SGB9333,22,0.03142857142857143,105,species
+immune_res__% CD8+ RO+ CCR6- total INFg+ d1,21,0.03,106,immune_res
+species__Lachnospira_SGB5077,21,0.03,107,species
+species__Parabacteroides_johnsonii,21,0.03,108,species
+immune_pct__% CD4+ CCR7+ RO- CXCR5+ d0,20,0.02857142857142857,109,immune_pct
+immune_pct__% CD8+ RO+ CCR6- total INFg+ d1,20,0.02857142857142857,110,immune_pct
+immune_res__DN % RO+ CD27+ d0,20,0.02857142857142857,111,immune_res
+immune_pct__% CD8+ MAIT INFg- GzA+ d1,19,0.027142857142857142,112,immune_pct
+immune_pct__% CD8+ RO+ Va7.2- total INFg+ d6,19,0.027142857142857142,113,immune_pct
+immune_pct__% viable CD3- CCR6- CD161- INFg+ d1,19,0.027142857142857142,114,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ total IL-17+ d1,18,0.025714285714285714,115,immune_pct
+immune_res__% CD4+ RO+ INFg- GMCSF+ d1,18,0.025714285714285714,116,immune_res
+immune_res__% CD8+ MAIT total INFg+ d1,18,0.025714285714285714,117,immune_res
+immune_res__% CD4+ CCR7+ RO- CD31+ CXCR3- d0,17,0.024285714285714285,118,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg+ d6,17,0.024285714285714285,119,immune_res
+immune_res__% CD8+ MAIT INFg- TNFa+ d1,17,0.024285714285714285,120,immune_res
+immune_res__% CD8+ RO+ Va7.2- total INFg+ d6,17,0.024285714285714285,121,immune_res
+immune_res__viable CD8+ MAIT d6,17,0.024285714285714285,122,immune_res
+species__Rikenellaceae_bacterium,17,0.024285714285714285,123,species
+species__Sutterella_SGB9281,17,0.024285714285714285,124,species
+immune_pct__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg+ d6,16,0.022857142857142857,125,immune_pct
+immune_pct__% CD8+ INFg+ IL4+ d1,16,0.022857142857142857,126,immune_pct
+immune_pct__% CD8+ MAIT INFg+ TNFa+ d1,16,0.022857142857142857,127,immune_pct
+immune_pct__% CD8+ MAIT total INFg+ d1,16,0.022857142857142857,128,immune_pct
+immune_pct__viable CD8+ MAIT d6,16,0.022857142857142857,129,immune_pct
+immune_res__total % CD8+ d0,16,0.022857142857142857,130,immune_res
+immune_res__% CD4+ CCR7+ RO- CXCR5+ d0,15,0.02142857142857143,131,immune_res
+immune_res__% CD4+ RO+ CCR6+ total IL-17+ d1,15,0.02142857142857143,132,immune_res
+species__Parasutterella_SGB9260,15,0.02142857142857143,133,species
+species__Phocaeicola_coprocola,15,0.02142857142857143,134,species
+immune_res__% viable CD3- CCR6- CD161- INFg+ d1,14,0.02,135,immune_res
+species__Alistipes_finegoldii,14,0.02,136,species
+immune_pct__% CD8+ MAIT total TNFa+ d6,13,0.018571428571428572,137,immune_pct
+immune_pct__% CD8+ and DN MAIT,13,0.018571428571428572,138,immune_pct
+immune_pct__CD8+ DN+ MAIT % RO- CD27+ d0,13,0.018571428571428572,139,immune_pct
+immune_res__% CD14+ d0,13,0.018571428571428572,140,immune_res
+immune_res__% CD4+ RO+ CD161+ d6,13,0.018571428571428572,141,immune_res
+immune_res__% CD8+ in total MAIT d6,13,0.018571428571428572,142,immune_res
+immune_res__CD8+ DN+ MAIT % RO- CD27+ d0,13,0.018571428571428572,143,immune_res
+species__Bacteroides_salyersiae,13,0.018571428571428572,144,species
+species__Bacteroides_xylanisolvens,13,0.018571428571428572,145,species
+species__Lacrimispora_celerecrescens,13,0.018571428571428572,146,species
+species__Ruminococcus_gnavus,13,0.018571428571428572,147,species
+immune_pct__% CD3- CD19- DR+ d0,12,0.017142857142857144,148,immune_pct
+immune_pct__% CD4+ N FOXP3+ d1,12,0.017142857142857144,149,immune_pct
+immune_pct__% CD8+ RO+ CCR6+ IL-17+ INFg- d1,12,0.017142857142857144,150,immune_pct
+immune_pct__% CD8+ total INFg+ d6,12,0.017142857142857144,151,immune_pct
+immune_pct__% DN RO+ CCR6- INFg- TNFa+ d1,12,0.017142857142857144,152,immune_pct
+immune_res__% CD8+ and DN MAIT,12,0.017142857142857144,153,immune_res
+quest__Absolute Neutrophils,12,0.017142857142857144,154,quest
+species__Clostridiales_bacterium,12,0.017142857142857144,155,species
+age,11,0.015714285714285715,156,metadata
+immune_pct__% CD4+ RO+ CD161+ d6,11,0.015714285714285715,157,immune_pct
+immune_pct__% DN d6,11,0.015714285714285715,158,immune_pct
+immune_pct__%DN MAIT d0,11,0.015714285714285715,159,immune_pct
+immune_res__% CD4+ RO+ CCR6+ INFg+ IL-17+ d1,11,0.015714285714285715,160,immune_res
+immune_res__% CD8+ M CCR7+ CXCR5+ d0,11,0.015714285714285715,161,immune_res
+immune_res__viable total CD8+ d6,11,0.015714285714285715,162,immune_res
+species__Bifidobacterium_adolescentis,11,0.015714285714285715,163,species
+immune_pct__% CD4+ RO+ INFg+ IL-17+ d1,10,0.014285714285714285,164,immune_pct
+immune_pct__% CD4+ RO+ d6,10,0.014285714285714285,165,immune_pct
+immune_pct__% CD8+ M CCR7+ CXCR5+ d0,10,0.014285714285714285,166,immune_pct
+immune_pct__% Dcs d0,10,0.014285714285714285,167,immune_pct
+immune_res__% CD19+ CD3- CD27+ IgG- d0,10,0.014285714285714285,168,immune_res
+immune_res__% CD4+ CCR7+ RO- CD31+ CXCR3+ d0,10,0.014285714285714285,169,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161+ total IL-17+ d6,10,0.014285714285714285,170,immune_res
+immune_res__% CD8+ RO- CD27+ d0,10,0.014285714285714285,171,immune_res
+immune_res__% CD8+ RO- Va7.2- INFg+ TNFa+ d6,10,0.014285714285714285,172,immune_res
+immune_res__% DN d6,10,0.014285714285714285,173,immune_res
+immune_res__Total gd Cells (gdTCR CD3hi + CD3lo),10,0.014285714285714285,174,immune_res
+immune_pct__% DN RO- CCR6- INFg- TNFa+ d1,9,0.012857142857142857,175,immune_pct
+immune_res__% CD8+ IL-17- INFg+ d6,9,0.012857142857142857,176,immune_res
+immune_res__% CD8+ M total CCR4+ d0,9,0.012857142857142857,177,immune_res
+immune_res__% DN RO- CCR6- INFg- TNFa+ d1,9,0.012857142857142857,178,immune_res
+immune_res__%DN MAIT d0,9,0.012857142857142857,179,immune_res
+species__Blautia_massiliensis,9,0.012857142857142857,180,species
+species__GGB9342_SGB14306,9,0.012857142857142857,181,species
+species__Prevotella_copri_clade_A,9,0.012857142857142857,182,species
+species__Ruminococcaceae_unclassified_SGB15234,9,0.012857142857142857,183,species
+immune_pct__% CD4+ RO+ CCR6- d6,8,0.011428571428571429,184,immune_pct
+immune_pct__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17+ d1,8,0.011428571428571429,185,immune_pct
+immune_pct__%CD8+ CD161+ Va7.2- d6,8,0.011428571428571429,186,immune_pct
+immune_res__% CD8+ and DN,8,0.011428571428571429,187,immune_res
+species__Bacteroides_finegoldii,8,0.011428571428571429,188,species
+species__Coprococcus_eutactus,8,0.011428571428571429,189,species
+immune_pct__% CD4+ RO+ CCR7- d0,7,0.01,190,immune_pct
+immune_pct__% CD8+ M CCR4+ CXCR3- d0,7,0.01,191,immune_pct
+immune_res__% CD4+ RO+ CCR6- d6,7,0.01,192,immune_res
+immune_res__% CD8+ RO+ CD31+ CD27+ d0,7,0.01,193,immune_res
+immune_res__% Dcs d0,7,0.01,194,immune_res
+quest__HDL Cholesterol,7,0.01,195,quest
+"quest__Protein, Total",7,0.01,196,quest
+species__GGB1681_SGB2313,7,0.01,197,species
+immune_res__% CD3- CD19- DR+ d0,6,0.008571428571428572,198,immune_res
+immune_res__% CD4+ RO+ CCR7- d0,6,0.008571428571428572,199,immune_res
+immune_res__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17+ d1,6,0.008571428571428572,200,immune_res
+immune_res__% CD8+ M CCR4+ CXCR3- d0,6,0.008571428571428572,201,immune_res
+immune_res__% CD8+ RO- Va7.2- total TNFa+ d6,6,0.008571428571428572,202,immune_res
+immune_res__%CD8+ CD161+ Va7.2- d6,6,0.008571428571428572,203,immune_res
+immune_res__DN % RO- CD27- d0,6,0.008571428571428572,204,immune_res
+quest__Carbon Dioxide,6,0.008571428571428572,205,quest
+species__Bacteroides_caccae,6,0.008571428571428572,206,species
+species__GGB6608_SGB9342,6,0.008571428571428572,207,species
+species__GGB9602_SGB15031,6,0.008571428571428572,208,species
+species__GGB9758_SGB15368,6,0.008571428571428572,209,species
+species__Lachnospiraceae_bacterium_WCA3_601_WT_6H,6,0.008571428571428572,210,species
+species__Parabacteroides_distasonis,6,0.008571428571428572,211,species
+species__Ruminococcaceae_unclassified_SGB15260,6,0.008571428571428572,212,species
+immune_pct__% CD4+ RO+ CCR6- IL-17+ INFg+ d6,5,0.007142857142857143,213,immune_pct
+immune_pct__% CD8+ M CCR6+ CXCR3- d0,5,0.007142857142857143,214,immune_pct
+immune_pct__% CD8+ MAIT INFg+ TNFa- d1,5,0.007142857142857143,215,immune_pct
+immune_pct__% CD8+ RO+ CCR6+ IL-17+ INFg+ d1,5,0.007142857142857143,216,immune_pct
+immune_res__% CD4+ RO+ CCR6- IL-17+ INFg+ d6,5,0.007142857142857143,217,immune_res
+immune_res__% CD4+ RO+ CD27- (TEM) d0,5,0.007142857142857143,218,immune_res
+immune_res__% CD4+ RO+ INFg+ IL-17+ d1,5,0.007142857142857143,219,immune_res
+immune_res__% CD4+ RO+ d6,5,0.007142857142857143,220,immune_res
+immune_res__% CD8+ M total CCR6+ d0,5,0.007142857142857143,221,immune_res
+immune_res__% CD8+ MAIT INFg+ TNFa- d1,5,0.007142857142857143,222,immune_res
+immune_res__% CD8+ MAIT INFg- GzA+ d1,5,0.007142857142857143,223,immune_res
+immune_res__CD8+ MAIT % RO+ CD27+ d0,5,0.007142857142857143,224,immune_res
+quest__Absolute Eosinophils,5,0.007142857142857143,225,quest
+species__Blautia_obeum,5,0.007142857142857143,226,species
+species__Parabacteroides_merdae,5,0.007142857142857143,227,species
+species__Ruminococcus_sp_NSJ_71,5,0.007142857142857143,228,species
+immune_pct__% CD4+ CCR7+ RO- CD31+ CXCR3+ d0,4,0.005714285714285714,229,immune_pct
+immune_pct__% CD4+ CCR7+ RO- CD31- CXCR3+ d0,4,0.005714285714285714,230,immune_pct
+immune_pct__% CD8+ MAIT IL-17- INFg+ d6,4,0.005714285714285714,231,immune_pct
+immune_pct__% CD8+ MAIT INFg- TNFa+ d6,4,0.005714285714285714,232,immune_pct
+immune_pct__% CD8+ RO- CCR6- IL4- GMCSF+ d1,4,0.005714285714285714,233,immune_pct
+immune_pct__% CD8+ RO- Va7.2- INFg+ TNFa+ d6,4,0.005714285714285714,234,immune_pct
+immune_pct__% DN MAIT d6,4,0.005714285714285714,235,immune_pct
+immune_pct__% viable CD3- CCR6- CD161+ INFg- d1,4,0.005714285714285714,236,immune_pct
+immune_res__% CD4+ M CD25- CD27+ d0,4,0.005714285714285714,237,immune_res
+immune_res__% CD4+ RO+ CCR6+ IL-22+ IL-17+ d1,4,0.005714285714285714,238,immune_res
+immune_res__% CD8+ MAIT IL-17- INFg+ d6,4,0.005714285714285714,239,immune_res
+immune_res__% CD8+ RO- CCR6- IL4- GMCSF+ d1,4,0.005714285714285714,240,immune_res
+immune_res__% viable CD3- CCR6- GzA- INFg+ d1,4,0.005714285714285714,241,immune_res
+immune_res__CD8+ DN+ MAIT % RO- CD27- d0,4,0.005714285714285714,242,immune_res
+quest__Absolute Basophils,4,0.005714285714285714,243,quest
+species__GGB9059_SGB13976,4,0.005714285714285714,244,species
+immune_pct__% CD4+ M FOXP3+ d1,3,0.004285714285714286,245,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161- d6,3,0.004285714285714286,246,immune_pct
+immune_pct__% CD8+ IL-17+ IL-22+ d6,3,0.004285714285714286,247,immune_pct
+immune_pct__% CD8+ MAIT INFg+ TNFa+ d6,3,0.004285714285714286,248,immune_pct
+immune_pct__% CD8+ RO- CCR6- total TNFa+ d1,3,0.004285714285714286,249,immune_pct
+immune_pct__% CD8+ and DN,3,0.004285714285714286,250,immune_pct
+immune_pct__% viable CD3+ of total CD3+,3,0.004285714285714286,251,immune_pct
+immune_pct__% viable CD3- CCR6- CD161+ INFg+ d1,3,0.004285714285714286,252,immune_pct
+immune_pct__%CD8+ MAIT d6,3,0.004285714285714286,253,immune_pct
+immune_pct__CD8+ % RO+ CD27+ d0,3,0.004285714285714286,254,immune_pct
+immune_pct__CD8+ MAIT % RO- CD27+ d0,3,0.004285714285714286,255,immune_pct
+immune_pct__DN % RO- CD27+ d0,3,0.004285714285714286,256,immune_pct
+immune_pct__NK % CD56lo CD16-,3,0.004285714285714286,257,immune_pct
+immune_res__% CD4+ M CXCR5- CCR7+ d0,3,0.004285714285714286,258,immune_res
+immune_res__% CD4+ M total CCR4+ d0,3,0.004285714285714286,259,immune_res
+immune_res__% CD4+ N FOXP3+ d1,3,0.004285714285714286,260,immune_res
+immune_res__% CD8+ MAIT total TNFa+ d6,3,0.004285714285714286,261,immune_res
+immune_res__% CD8+ RO- CCR6- total INFg+ d1,3,0.004285714285714286,262,immune_res
+immune_res__% CD8+ total INFg+ d6,3,0.004285714285714286,263,immune_res
+immune_res__% DN MAIT d6,3,0.004285714285714286,264,immune_res
+immune_res__% viable CD3+ of total CD3+,3,0.004285714285714286,265,immune_res
+immune_res__% viable CD3- CCR6- CD161+ INFg+ d1,3,0.004285714285714286,266,immune_res
+immune_res__%CD8+ MAIT d6,3,0.004285714285714286,267,immune_res
+immune_res__CD8+ MAIT % RO- CD27+ d0,3,0.004285714285714286,268,immune_res
+immune_res__CD8+ MAIT % RO- CD27- d0,3,0.004285714285714286,269,immune_res
+immune_res__DN % RO- CD27+ d0,3,0.004285714285714286,270,immune_res
+quest__Alkaline Phosphatase,3,0.004285714285714286,271,quest
+quest__Chol/HDLC Ratio,3,0.004285714285714286,272,quest
+quest__Platelet Count,3,0.004285714285714286,273,quest
+quest__Sed Rate,3,0.004285714285714286,274,quest
+species__Alistipes_ihumii,3,0.004285714285714286,275,species
+species__Anaerobutyricum_hallii,3,0.004285714285714286,276,species
+species__Bacteroides_faecis,3,0.004285714285714286,277,species
+species__Escherichia_coli,3,0.004285714285714286,278,species
+species__Parasutterella_excrementihominis,3,0.004285714285714286,279,species
+species__Ruminococcus_bicirculans,3,0.004285714285714286,280,species
+immune_pct__% CD3- CD19- CD14+ CD16+,2,0.002857142857142857,281,immune_pct
+immune_pct__% CD4+ IL-17+ IL-22+ d6,2,0.002857142857142857,282,immune_pct
+immune_pct__% CD4+ IL-17- IL-22+ d6,2,0.002857142857142857,283,immune_pct
+immune_pct__% CD4+ INFg+ TNFa+ d6,2,0.002857142857142857,284,immune_pct
+immune_pct__% CD4+ INFg+ TNFa- d6,2,0.002857142857142857,285,immune_pct
+immune_pct__% CD4+ M CXCR5- CCR7+ d0,2,0.002857142857142857,286,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL4+ d1,2,0.002857142857142857,287,immune_pct
+immune_pct__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17- d1,2,0.002857142857142857,288,immune_pct
+immune_pct__% CD8+ IL-17- INFg+ d6,2,0.002857142857142857,289,immune_pct
+immune_pct__% CD8+ MAIT total Granzyme+ d1,2,0.002857142857142857,290,immune_pct
+immune_pct__% CD8+ RO- CCR6- IL4+ GMCSF+ d1,2,0.002857142857142857,291,immune_pct
+immune_pct__% CD8+ RO- CCR6- INFg+ TNFa+ d1,2,0.002857142857142857,292,immune_pct
+immune_pct__% pDcs d0,2,0.002857142857142857,293,immune_pct
+immune_pct__CD4:CD8 d0,2,0.002857142857142857,294,immune_pct
+immune_res__% CD4+ IL-17+ IL-22+ d6,2,0.002857142857142857,295,immune_res
+immune_res__% CD4+ IL-17- IL-22+ d6,2,0.002857142857142857,296,immune_res
+immune_res__% CD4+ INFg+ TNFa+ d6,2,0.002857142857142857,297,immune_res
+immune_res__% CD4+ INFg+ TNFa- d6,2,0.002857142857142857,298,immune_res
+immune_res__% CD4+ RO+ CCR6+ INFg- IL-17+ d1,2,0.002857142857142857,299,immune_res
+immune_res__% CD4+ RO- CD27- (TEMRA) d0,2,0.002857142857142857,300,immune_res
+immune_res__% CD8+ M CCR7+ CXCR5- d0,2,0.002857142857142857,301,immune_res
+immune_res__% CD8+ MAIT IL-17+ INFg+ d6,2,0.002857142857142857,302,immune_res
+immune_res__% CD8+ MAIT INFg+ TNFa+ d1,2,0.002857142857142857,303,immune_res
+immune_res__% CD8+ RO+ Va7.2- INFg+ TNFa- d6,2,0.002857142857142857,304,immune_res
+immune_res__% CD8+ total TNFa+ d1,2,0.002857142857142857,305,immune_res
+immune_res__% DN RO+ CCR6- INFg- TNFa+ d1,2,0.002857142857142857,306,immune_res
+immune_res__total % CD4+ d6,2,0.002857142857142857,307,immune_res
+quest__C-Reactive Protein,2,0.002857142857142857,308,quest
+"quest__Cholesterol, Total",2,0.002857142857142857,309,quest
+quest__MPV,2,0.002857142857142857,310,quest
+species__Akkermansia_sp_KLE1605,2,0.002857142857142857,311,species
+species__Clostridia_unclassified_SGB13972,2,0.002857142857142857,312,species
+species__GGB6612_SGB9346,2,0.002857142857142857,313,species
+species__GGB9176_SGB14114,2,0.002857142857142857,314,species
+species__Gemmiger_formicilis,2,0.002857142857142857,315,species
+species__Phocaeicola_massiliensis,2,0.002857142857142857,316,species
+species__Phocaeicola_vulgatus,2,0.002857142857142857,317,species
+species__Roseburia_faecis,2,0.002857142857142857,318,species
+species__Ruminococcus_lactaris,2,0.002857142857142857,319,species
+immune_pct__% CD19+ CD3- CD27+ IgG- d0,1,0.0014285714285714286,320,immune_pct
+immune_pct__% CD4+ M CXCR5+ CCR7- d0,1,0.0014285714285714286,321,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ INFg- IL-17+ d1,1,0.0014285714285714286,322,immune_pct
+immune_pct__% CD4+ RO+ CD161- IL-17- INFg+ d6,1,0.0014285714285714286,323,immune_pct
+immune_pct__% CD4+ RO+ CD27+ (TCM) d0,1,0.0014285714285714286,324,immune_pct
+immune_pct__% CD4+ RO+ CD27- (TEM) d0,1,0.0014285714285714286,325,immune_pct
+immune_pct__% CD4+ RO+ FOXP3+ INFg- TNFa- IL-17+ d1,1,0.0014285714285714286,326,immune_pct
+immune_pct__% CD4+ RO+ IL-22+ IL-17+ d1,1,0.0014285714285714286,327,immune_pct
+immune_pct__% CD4+ RO+ INFg+ GzA- d1,1,0.0014285714285714286,328,immune_pct
+immune_pct__% CD4+ RO+ total INFg+ d1 P13,1,0.0014285714285714286,329,immune_pct
+immune_pct__% CD8+ IL-17- IL-22+ d6,1,0.0014285714285714286,330,immune_pct
+immune_pct__% CD8+ INFg- TNFa+ d1 P13,1,0.0014285714285714286,331,immune_pct
+immune_pct__% CD8+ M total CCR4+ d0,1,0.0014285714285714286,332,immune_pct
+immune_pct__% CD8+ MAIT INFg- TNFa+ d1,1,0.0014285714285714286,333,immune_pct
+immune_pct__% CD8+ RO+ CD27- d0,1,0.0014285714285714286,334,immune_pct
+immune_pct__% CD8+ RO+ Va7.2- INFg+ TNFa- d6,1,0.0014285714285714286,335,immune_pct
+immune_pct__% CD8+ RO- Va7.2- total INFg+ d6,1,0.0014285714285714286,336,immune_pct
+immune_pct__% DN CD161+ Va7.2- d6,1,0.0014285714285714286,337,immune_pct
+immune_pct__% DN RO- CCR6- total INFg+ d1,1,0.0014285714285714286,338,immune_pct
+immune_pct__% Dcs CD1c+ d0,1,0.0014285714285714286,339,immune_pct
+immune_pct__%DN CD161+ Va7.2- d0,1,0.0014285714285714286,340,immune_pct
+immune_pct__CD4:CD8 d6,1,0.0014285714285714286,341,immune_pct
+immune_pct__DN % RO+ CD27- d0,1,0.0014285714285714286,342,immune_pct
+immune_pct__viable total CD8+ d6,1,0.0014285714285714286,343,immune_pct
+immune_res__% CD19+ CD3- d0,1,0.0014285714285714286,344,immune_res
+immune_res__% CD3- CD19- CD14+ CD16+,1,0.0014285714285714286,345,immune_res
+immune_res__% CD4+ CCR7+ RO- CD31- CXCR3+ d0,1,0.0014285714285714286,346,immune_res
+immune_res__% CD4+ M total CCR6+ d0,1,0.0014285714285714286,347,immune_res
+immune_res__% CD4+ RO+ CCR6- total IL-17+ d6,1,0.0014285714285714286,348,immune_res
+immune_res__% CD4+ RO+ CD27+ (TCM) d0,1,0.0014285714285714286,349,immune_res
+immune_res__% CD4+ RO+ INFg+ GzA+ d1,1,0.0014285714285714286,350,immune_res
+immune_res__% CD8+ IL-17+ IL-22+ d6,1,0.0014285714285714286,351,immune_res
+immune_res__% CD8+ IL-17- IL-22+ d6,1,0.0014285714285714286,352,immune_res
+immune_res__% CD8+ INFg- TNFa+ d1 P13,1,0.0014285714285714286,353,immune_res
+immune_res__% CD8+ MAIT IL-17+ INFg- d6,1,0.0014285714285714286,354,immune_res
+immune_res__% CD8+ MAIT total Granzyme+ d1,1,0.0014285714285714286,355,immune_res
+immune_res__% CD8+ RO+ CCR6+ IL-17+ INFg+ d1,1,0.0014285714285714286,356,immune_res
+immune_res__% CD8+ RO+ CCR6+ IL4- GMCSF+ d1,1,0.0014285714285714286,357,immune_res
+immune_res__% CD8+ RO+ CD27- d0,1,0.0014285714285714286,358,immune_res
+immune_res__% CD8+ RO- CCR6- IL4+ GMCSF+ d1,1,0.0014285714285714286,359,immune_res
+immune_res__% CD8+ RO- CCR6- total TNFa+ d1,1,0.0014285714285714286,360,immune_res
+immune_res__% DN CD161+ Va7.2- d6,1,0.0014285714285714286,361,immune_res
+immune_res__% DN RO+ CCR6- total INFg+ d1,1,0.0014285714285714286,362,immune_res
+immune_res__% DN RO- CCR6- total INFg+ d1,1,0.0014285714285714286,363,immune_res
+immune_res__% Dcs CD1c+ d0,1,0.0014285714285714286,364,immune_res
+immune_res__CD4:CD8 d6,1,0.0014285714285714286,365,immune_res
+immune_res__total % CD4+ d0,1,0.0014285714285714286,366,immune_res
+quest__Absolute Lymphocytes,1,0.0014285714285714286,367,quest
+quest__LDL-Cholesterol,1,0.0014285714285714286,368,quest
+quest__Urea Nitrogen (BUN),1,0.0014285714285714286,369,quest
+species__Akkermansia_muciniphila,1,0.0014285714285714286,370,species
+species__Akkermansia_sp_BIOML_A40,1,0.0014285714285714286,371,species
+species__Alistipes_shahii,1,0.0014285714285714286,372,species
+species__Blautia_faecis,1,0.0014285714285714286,373,species
+species__Blautia_wexlerae,1,0.0014285714285714286,374,species
+species__Eubacterium_siraeum,1,0.0014285714285714286,375,species
+species__GGB9615_SGB15053,1,0.0014285714285714286,376,species
+species__Lacrimispora_amygdalina,1,0.0014285714285714286,377,species
+species__Prevotella_marseillensis,1,0.0014285714285714286,378,species
+species__Ruminococcus_torques,1,0.0014285714285714286,379,species
+species__Ruthenibacterium_lactatiformans,1,0.0014285714285714286,380,species
+gender_Male,0,0.0,381,metadata
+immune_pct__% CD19+ CD3- CD27- IgG+ d0,0,0.0,382,immune_pct
+immune_pct__% CD19+ CD3- d0,0,0.0,383,immune_pct
+immune_pct__% CD19- CD3- d0,0,0.0,384,immune_pct
+immune_pct__% CD3- CD19- DR+ CD14+ d0,0,0.0,385,immune_pct
+immune_pct__% CD4+  RO- CD27+ (TN) d0,0,0.0,386,immune_pct
+immune_pct__% CD4+ CCR7+ RO- CD31+ CXCR3- d0,0,0.0,387,immune_pct
+immune_pct__% CD4+ CD161+ Va7.2- d0,0,0.0,388,immune_pct
+immune_pct__% CD4+ IL-17+ IL-22- d6,0,0.0,389,immune_pct
+immune_pct__% CD4+ INFg- TNFa+ d6,0,0.0,390,immune_pct
+immune_pct__% CD4+ M CCR4+ CXCR3+ d0,0,0.0,391,immune_pct
+immune_pct__% CD4+ M CCR4+ CXCR3- d0,0,0.0,392,immune_pct
+immune_pct__% CD4+ M CCR4- CXCR3+ d0,0,0.0,393,immune_pct
+immune_pct__% CD4+ M CCR6+ CXCR3+ d0,0,0.0,394,immune_pct
+immune_pct__% CD4+ M CCR6+ CXCR3- d0,0,0.0,395,immune_pct
+immune_pct__% CD4+ M CCR6- CXCR3+ d0,0,0.0,396,immune_pct
+immune_pct__% CD4+ M CD25+ CD27+ d0,0,0.0,397,immune_pct
+immune_pct__% CD4+ M CD25- CD27+ d0,0,0.0,398,immune_pct
+immune_pct__% CD4+ M CXCR5+ CCR7+ d0,0,0.0,399,immune_pct
+immune_pct__% CD4+ M Treg (FOXP3+ HELIOS+) d1,0,0.0,400,immune_pct
+immune_pct__% CD4+ M total CCR4+ d0,0,0.0,401,immune_pct
+immune_pct__% CD4+ M total CCR6+ d0,0,0.0,402,immune_pct
+immune_pct__% CD4+ M total CXCR3+ d0,0,0.0,403,immune_pct
+immune_pct__% CD4+ N Treg (FOXP3+ HELIOS+) d1,0,0.0,404,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg- d6,0,0.0,405,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161+ IL-17- INFg+ d6,0,0.0,406,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161+ d6,0,0.0,407,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161- IL-17+ INFg+ d6,0,0.0,408,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161- IL-17+ INFg- d6,0,0.0,409,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161- IL-17- INFg+ d6,0,0.0,410,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ CD161- total IL-17+ d6,0,0.0,411,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ IL-17+ INFg+ d6,0,0.0,412,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ IL-17+ INFg- d6,0,0.0,413,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ IL-17- INFg+ d6,0,0.0,414,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ IL-22+ IL-17- d1,0,0.0,415,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ IL-22- IL-17+ d1,0,0.0,416,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL-17- d1,0,0.0,417,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL4- d1,0,0.0,418,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ INFg- IL4+ d1,0,0.0,419,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ d0,0,0.0,420,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ d1,0,0.0,421,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ d6,0,0.0,422,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ total IL-17+  d6,0,0.0,423,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ total INFg+ d1,0,0.0,424,immune_pct
+immune_pct__% CD4+ RO+ CCR6+ total INFg+ d6,0,0.0,425,immune_pct
+immune_pct__% CD4+ RO+ CCR6- IL-17+ INFg- d6,0,0.0,426,immune_pct
+immune_pct__% CD4+ RO+ CCR6- IL-17- INFg+ d6,0,0.0,427,immune_pct
+immune_pct__% CD4+ RO+ CCR6- INFg+ TNFa+ d1,0,0.0,428,immune_pct
+immune_pct__% CD4+ RO+ CCR6- INFg+ TNFa- d1,0,0.0,429,immune_pct
+immune_pct__% CD4+ RO+ CCR6- INFg- TNFa+ d1,0,0.0,430,immune_pct
+immune_pct__% CD4+ RO+ CCR6- total IL-17+ d6,0,0.0,431,immune_pct
+immune_pct__% CD4+ RO+ CCR6- total INFg+ d1,0,0.0,432,immune_pct
+immune_pct__% CD4+ RO+ CCR6- total INFg+ d6,0,0.0,433,immune_pct
+immune_pct__% CD4+ RO+ CCR7+ d0,0,0.0,434,immune_pct
+immune_pct__% CD4+ RO+ CD161+ IL-17+ INFg- d6,0,0.0,435,immune_pct
+immune_pct__% CD4+ RO+ CD161+ IL-17- INFg+ d6,0,0.0,436,immune_pct
+immune_pct__% CD4+ RO+ CD161- IL-17+ INFg+ d6,0,0.0,437,immune_pct
+immune_pct__% CD4+ RO+ CD161- IL-17+ INFg- d6,0,0.0,438,immune_pct
+immune_pct__% CD4+ RO+ CD161- total IL-17+ d6,0,0.0,439,immune_pct
+immune_pct__% CD4+ RO+ FOXP3+ INFg- d1,0,0.0,440,immune_pct
+immune_pct__% CD4+ RO+ IL-17+ INFg+ d6,0,0.0,441,immune_pct
+immune_pct__% CD4+ RO+ IL-17+ INFg- d6,0,0.0,442,immune_pct
+immune_pct__% CD4+ RO+ IL-17- INFg+ d6,0,0.0,443,immune_pct
+immune_pct__% CD4+ RO+ IL-22+ IL-17- d1,0,0.0,444,immune_pct
+immune_pct__% CD4+ RO+ IL-22- IL-17+ d1,0,0.0,445,immune_pct
+immune_pct__% CD4+ RO+ INFg+ GMCSF+ d1,0,0.0,446,immune_pct
+immune_pct__% CD4+ RO+ INFg+ GMCSF- d1,0,0.0,447,immune_pct
+immune_pct__% CD4+ RO+ INFg+ GzA+ d1,0,0.0,448,immune_pct
+immune_pct__% CD4+ RO+ INFg+ IL-17- d1,0,0.0,449,immune_pct
+immune_pct__% CD4+ RO+ INFg+ IL4+ d1,0,0.0,450,immune_pct
+immune_pct__% CD4+ RO+ INFg+ IL4- d1,0,0.0,451,immune_pct
+immune_pct__% CD4+ RO+ INFg+ TNFa+ d1,0,0.0,452,immune_pct
+immune_pct__% CD4+ RO+ INFg+ TNFa- d1,0,0.0,453,immune_pct
+immune_pct__% CD4+ RO+ INFg- GzA+ d1,0,0.0,454,immune_pct
+immune_pct__% CD4+ RO+ INFg- IL-17+ d1,0,0.0,455,immune_pct
+immune_pct__% CD4+ RO+ INFg- IL4+ d1,0,0.0,456,immune_pct
+immune_pct__% CD4+ RO+ INFg- TNFa+ d1,0,0.0,457,immune_pct
+immune_pct__% CD4+ RO+ d0,0,0.0,458,immune_pct
+immune_pct__% CD4+ RO+ total GzA+ d1,0,0.0,459,immune_pct
+immune_pct__% CD4+ RO+ total IL-17+ d1,0,0.0,460,immune_pct
+immune_pct__% CD4+ RO+ total IL-17+ d6,0,0.0,461,immune_pct
+immune_pct__% CD4+ RO+ total INFg+ d1 P8,0,0.0,462,immune_pct
+immune_pct__% CD4+ RO+ total INFg+ d6,0,0.0,463,immune_pct
+immune_pct__% CD4+ RO+ total TNFa+ d1,0,0.0,464,immune_pct
+immune_pct__% CD4+ RO+/- CD27+ CD161+ INFg+ d1,0,0.0,465,immune_pct
+immune_pct__% CD4+ RO+/- CD27+ CD161+ INFg- d1,0,0.0,466,immune_pct
+immune_pct__% CD4+ RO+/- CD27+ CD161- INFg+ d1,0,0.0,467,immune_pct
+immune_pct__% CD4+ RO- CCR7+ d0,0,0.0,468,immune_pct
+immune_pct__% CD8+ IL-17+ IL-22- d6,0,0.0,469,immune_pct
+immune_pct__% CD8+ IL-17+ INFg+ d6,0,0.0,470,immune_pct
+immune_pct__% CD8+ IL-17+ INFg- d6,0,0.0,471,immune_pct
+immune_pct__% CD8+ INFg+ GzA+ d1,0,0.0,472,immune_pct
+immune_pct__% CD8+ INFg+ GzA- d1,0,0.0,473,immune_pct
+immune_pct__% CD8+ INFg+ IL4- d1,0,0.0,474,immune_pct
+immune_pct__% CD8+ INFg+ TNFa+ d1 P13,0,0.0,475,immune_pct
+immune_pct__% CD8+ INFg+ TNFa+ d1 P8,0,0.0,476,immune_pct
+immune_pct__% CD8+ INFg+ TNFa- d1 P13,0,0.0,477,immune_pct
+immune_pct__% CD8+ INFg- GzA+ d1,0,0.0,478,immune_pct
+immune_pct__% CD8+ INFg- IL4+ d1,0,0.0,479,immune_pct
+immune_pct__% CD8+ INFg- TNFa+ d1 P8,0,0.0,480,immune_pct
+immune_pct__% CD8+ M CCR4+ CXCR3+ d0,0,0.0,481,immune_pct
+immune_pct__% CD8+ M CCR4- CXCR3+ d0,0,0.0,482,immune_pct
+immune_pct__% CD8+ M CCR6+ CXCR3+ d0,0,0.0,483,immune_pct
+immune_pct__% CD8+ M CCR6- CXCR3+ d0,0,0.0,484,immune_pct
+immune_pct__% CD8+ M CCR7+ CXCR5- d0,0,0.0,485,immune_pct
+immune_pct__% CD8+ M CCR7- CXCR5+ d0,0,0.0,486,immune_pct
+immune_pct__% CD8+ M total CXCR3+ d0,0,0.0,487,immune_pct
+immune_pct__% CD8+ MAIT IL-17+ INFg+ d6,0,0.0,488,immune_pct
+immune_pct__% CD8+ MAIT IL-17+ INFg- d6,0,0.0,489,immune_pct
+immune_pct__% CD8+ MAIT INFg+ GzA- d1,0,0.0,490,immune_pct
+immune_pct__% CD8+ MAIT INFg+ TNFa- d6,0,0.0,491,immune_pct
+immune_pct__% CD8+ MAIT d1,0,0.0,492,immune_pct
+immune_pct__% CD8+ MAIT total IL-17+ d6,0,0.0,493,immune_pct
+immune_pct__% CD8+ MAIT total INFg+ d6,0,0.0,494,immune_pct
+immune_pct__% CD8+ RO+ CCR6+ IL-17- INFg+ d1,0,0.0,495,immune_pct
+immune_pct__% CD8+ RO+ CCR6+ IL4- GMCSF+ d1,0,0.0,496,immune_pct
+immune_pct__% CD8+ RO+ CCR6- IL4- GMCSF+ d1,0,0.0,497,immune_pct
+immune_pct__% CD8+ RO+ CCR6- INFg+ TNFa+ d1,0,0.0,498,immune_pct
+immune_pct__% CD8+ RO+ CCR6- INFg- TNFa+ d1,0,0.0,499,immune_pct
+immune_pct__% CD8+ RO+ CCR6- total TNFa+ d1,0,0.0,500,immune_pct
+immune_pct__% CD8+ RO+ CCR7+ d0,0,0.0,501,immune_pct
+immune_pct__% CD8+ RO+ CCR7- d0,0,0.0,502,immune_pct
+immune_pct__% CD8+ RO+ CD27+ d0,0,0.0,503,immune_pct
+immune_pct__% CD8+ RO+ CD31+ CD27+ d0,0,0.0,504,immune_pct
+immune_pct__% CD8+ RO+ CD31+ CD27- d0,0,0.0,505,immune_pct
+immune_pct__% CD8+ RO+ CD31- CD27+ d0,0,0.0,506,immune_pct
+immune_pct__% CD8+ RO+ Va7.2- INFg+ TNFa+ d6,0,0.0,507,immune_pct
+immune_pct__% CD8+ RO+ Va7.2- INFg- TNFa+ d6,0,0.0,508,immune_pct
+immune_pct__% CD8+ RO+ Va7.2- total TNFa+ d6,0,0.0,509,immune_pct
+immune_pct__% CD8+ RO- CCR6- IL4+ GMCSF- d1,0,0.0,510,immune_pct
+immune_pct__% CD8+ RO- CCR6- INFg+ TNFa- d1,0,0.0,511,immune_pct
+immune_pct__% CD8+ RO- CCR6- INFg- TNFa+ d1,0,0.0,512,immune_pct
+immune_pct__% CD8+ RO- CCR6- total INFg+ d1,0,0.0,513,immune_pct
+immune_pct__% CD8+ RO- CCR7+ d0,0,0.0,514,immune_pct
+immune_pct__% CD8+ RO- CCR7- d0,0,0.0,515,immune_pct
+immune_pct__% CD8+ RO- CD27+ d0,0,0.0,516,immune_pct
+immune_pct__% CD8+ RO- CD27- d0,0,0.0,517,immune_pct
+immune_pct__% CD8+ RO- Va7.2- INFg+ TNFa- d6,0,0.0,518,immune_pct
+immune_pct__% CD8+ RO- Va7.2- INFg- TNFa+ d6,0,0.0,519,immune_pct
+immune_pct__% CD8+ RO- Va7.2- total TNFa+ d6,0,0.0,520,immune_pct
+immune_pct__% CD8+ in total MAIT d6,0,0.0,521,immune_pct
+immune_pct__% CD8+ non-MAIT total INFg+ d1,0,0.0,522,immune_pct
+immune_pct__% CD8+ nonMAIT INFg+ GzA+ d1,0,0.0,523,immune_pct
+immune_pct__% CD8+ nonMAIT INFg+ GzA- d1,0,0.0,524,immune_pct
+immune_pct__% CD8+ nonMAIT INFg+ TNFa+ d1,0,0.0,525,immune_pct
+immune_pct__% CD8+ nonMAIT INFg+ TNFa- d1,0,0.0,526,immune_pct
+immune_pct__% CD8+ nonMAIT INFg- GzA+ d1,0,0.0,527,immune_pct
+immune_pct__% CD8+ nonMAIT INFg- TNFa+ d1,0,0.0,528,immune_pct
+immune_pct__% CD8+ nonMAIT total GzA+ d1,0,0.0,529,immune_pct
+immune_pct__% CD8+ nonMAIT total INFg+ d1,0,0.0,530,immune_pct
+immune_pct__% CD8+ total GzA+ d1,0,0.0,531,immune_pct
+immune_pct__% CD8+ total IL-17+ d6,0,0.0,532,immune_pct
+immune_pct__% CD8+ total INFg+ d1,0,0.0,533,immune_pct
+immune_pct__% CD8+ total INFg+ d1 P13,0,0.0,534,immune_pct
+immune_pct__% CD8+ total INFg+ d1 P8,0,0.0,535,immune_pct
+immune_pct__% CD8+ total TNFa+ d1,0,0.0,536,immune_pct
+immune_pct__% DN RO+ CCR6- INFg+ TNFa+ d1,0,0.0,537,immune_pct
+immune_pct__% DN RO+ CCR6- INFg+ TNFa- d1,0,0.0,538,immune_pct
+immune_pct__% DN RO+ CCR6- total INFg+ d1,0,0.0,539,immune_pct
+immune_pct__% DN RO- CCR6- INFg+ TNFa+ d1,0,0.0,540,immune_pct
+immune_pct__% DN RO- CCR6- INFg+ TNFa- d1,0,0.0,541,immune_pct
+immune_pct__% DN in total MAIT d6,0,0.0,542,immune_pct
+immune_pct__% DR+ CD3- d0,0,0.0,543,immune_pct
+immune_pct__% viable CD3+ d6,0,0.0,544,immune_pct
+immune_pct__% viable CD3- CCR6- GzA+ INFg- d1,0,0.0,545,immune_pct
+immune_pct__% viable CD3- CCR6- GzA- INFg+ d1,0,0.0,546,immune_pct
+immune_pct__%CD4+ MAIT d0,0,0.0,547,immune_pct
+immune_pct__%CD8+ CD161+ Va7.2- d0,0,0.0,548,immune_pct
+immune_pct__%CD8+ MAIT d0,0,0.0,549,immune_pct
+immune_pct__CD3+ gdTCR+ CD3hi,0,0.0,550,immune_pct
+immune_pct__CD4+ CCR6+ as % of RO+,0,0.0,551,immune_pct
+immune_pct__CD8+ % RO+ CD27- d0,0,0.0,552,immune_pct
+immune_pct__CD8+ % RO- CD27+ d0,0,0.0,553,immune_pct
+immune_pct__CD8+ % RO- CD27- d0,0,0.0,554,immune_pct
+immune_pct__CD8+ DN+ MAIT % RO+ CD27+ d0,0,0.0,555,immune_pct
+immune_pct__CD8+ DN+ MAIT % RO+ CD27- d0,0,0.0,556,immune_pct
+immune_pct__CD8+ MAIT % RO+ CD27+ d0,0,0.0,557,immune_pct
+immune_pct__CD8+ MAIT % RO+ CD27- d0,0,0.0,558,immune_pct
+immune_pct__DN % RO+ CD27+ d0,0,0.0,559,immune_pct
+immune_pct__DN % RO- CD27- d0,0,0.0,560,immune_pct
+immune_pct__NK % CD56+ CD16+,0,0.0,561,immune_pct
+immune_pct__NK % CD56hi CD16-,0,0.0,562,immune_pct
+immune_pct__Total gd Cells (gdTCR CD3hi + CD3lo),0,0.0,563,immune_pct
+immune_pct__total % CD3 d0,0,0.0,564,immune_pct
+immune_pct__total % CD4+ d0,0,0.0,565,immune_pct
+immune_pct__total % CD4+ d6,0,0.0,566,immune_pct
+immune_pct__total % CD8+ d0,0,0.0,567,immune_pct
+immune_pct__total % CD8+ d6,0,0.0,568,immune_pct
+immune_pct__total % DN d0,0,0.0,569,immune_pct
+immune_res__% CD19+ CD3- CD27- IgG+ d0,0,0.0,570,immune_res
+immune_res__% CD19- CD3- d0,0,0.0,571,immune_res
+immune_res__% CD3- CD19- DR+ CD14+ d0,0,0.0,572,immune_res
+immune_res__% CD4+  RO- CD27+ (TN) d0,0,0.0,573,immune_res
+immune_res__% CD4+ CD161+ Va7.2- d0,0,0.0,574,immune_res
+immune_res__% CD4+ IL-17+ IL-22- d6,0,0.0,575,immune_res
+immune_res__% CD4+ INFg- TNFa+ d6,0,0.0,576,immune_res
+immune_res__% CD4+ M CCR4+ CXCR3+ d0,0,0.0,577,immune_res
+immune_res__% CD4+ M CCR4+ CXCR3- d0,0,0.0,578,immune_res
+immune_res__% CD4+ M CCR4- CXCR3+ d0,0,0.0,579,immune_res
+immune_res__% CD4+ M CCR6+ CXCR3+ d0,0,0.0,580,immune_res
+immune_res__% CD4+ M CCR6+ CXCR3- d0,0,0.0,581,immune_res
+immune_res__% CD4+ M CCR6- CXCR3+ d0,0,0.0,582,immune_res
+immune_res__% CD4+ M CD25+ CD27+ d0,0,0.0,583,immune_res
+immune_res__% CD4+ M CD25+ CD27- d0,0,0.0,584,immune_res
+immune_res__% CD4+ M CXCR5+ CCR7+ d0,0,0.0,585,immune_res
+immune_res__% CD4+ M CXCR5+ CCR7- d0,0,0.0,586,immune_res
+immune_res__% CD4+ M FOXP3+ d1,0,0.0,587,immune_res
+immune_res__% CD4+ M Treg (FOXP3+ HELIOS+) d1,0,0.0,588,immune_res
+immune_res__% CD4+ M total CXCR3+ d0,0,0.0,589,immune_res
+immune_res__% CD4+ N Treg (FOXP3+ HELIOS+) d1,0,0.0,590,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg- d6,0,0.0,591,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161+ IL-17- INFg+ d6,0,0.0,592,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161- IL-17+ INFg+ d6,0,0.0,593,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161- IL-17+ INFg- d6,0,0.0,594,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161- IL-17- INFg+ d6,0,0.0,595,immune_res
+immune_res__% CD4+ RO+ CCR6+ CD161- total IL-17+ d6,0,0.0,596,immune_res
+immune_res__% CD4+ RO+ CCR6+ IL-17+ INFg+ d6,0,0.0,597,immune_res
+immune_res__% CD4+ RO+ CCR6+ IL-17+ INFg- d6,0,0.0,598,immune_res
+immune_res__% CD4+ RO+ CCR6+ IL-17- INFg+ d6,0,0.0,599,immune_res
+immune_res__% CD4+ RO+ CCR6+ IL-22+ IL-17- d1,0,0.0,600,immune_res
+immune_res__% CD4+ RO+ CCR6+ IL-22- IL-17+ d1,0,0.0,601,immune_res
+immune_res__% CD4+ RO+ CCR6+ INFg+ IL-17- d1,0,0.0,602,immune_res
+immune_res__% CD4+ RO+ CCR6+ INFg+ IL4+ d1,0,0.0,603,immune_res
+immune_res__% CD4+ RO+ CCR6+ INFg+ IL4- d1,0,0.0,604,immune_res
+immune_res__% CD4+ RO+ CCR6+ INFg- IL4+ d1,0,0.0,605,immune_res
+immune_res__% CD4+ RO+ CCR6+ d0,0,0.0,606,immune_res
+immune_res__% CD4+ RO+ CCR6+ d1,0,0.0,607,immune_res
+immune_res__% CD4+ RO+ CCR6+ d6,0,0.0,608,immune_res
+immune_res__% CD4+ RO+ CCR6+ total IL-17+  d6,0,0.0,609,immune_res
+immune_res__% CD4+ RO+ CCR6+ total INFg+ d1,0,0.0,610,immune_res
+immune_res__% CD4+ RO+ CCR6+ total INFg+ d6,0,0.0,611,immune_res
+immune_res__% CD4+ RO+ CCR6- IL-17+ INFg- d6,0,0.0,612,immune_res
+immune_res__% CD4+ RO+ CCR6- IL-17- INFg+ d6,0,0.0,613,immune_res
+immune_res__% CD4+ RO+ CCR6- INFg+ TNFa+ d1,0,0.0,614,immune_res
+immune_res__% CD4+ RO+ CCR6- INFg+ TNFa- d1,0,0.0,615,immune_res
+immune_res__% CD4+ RO+ CCR6- INFg- TNFa+ d1,0,0.0,616,immune_res
+immune_res__% CD4+ RO+ CCR6- total INFg+ d1,0,0.0,617,immune_res
+immune_res__% CD4+ RO+ CCR6- total INFg+ d6,0,0.0,618,immune_res
+immune_res__% CD4+ RO+ CCR7+ d0,0,0.0,619,immune_res
+immune_res__% CD4+ RO+ CD161+ IL-17+ INFg- d6,0,0.0,620,immune_res
+immune_res__% CD4+ RO+ CD161+ IL-17- INFg+ d6,0,0.0,621,immune_res
+immune_res__% CD4+ RO+ CD161- IL-17+ INFg+ d6,0,0.0,622,immune_res
+immune_res__% CD4+ RO+ CD161- IL-17+ INFg- d6,0,0.0,623,immune_res
+immune_res__% CD4+ RO+ CD161- IL-17- INFg+ d6,0,0.0,624,immune_res
+immune_res__% CD4+ RO+ CD161- total IL-17+ d6,0,0.0,625,immune_res
+immune_res__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17- d1,0,0.0,626,immune_res
+immune_res__% CD4+ RO+ FOXP3+ INFg- TNFa- IL-17+ d1,0,0.0,627,immune_res
+immune_res__% CD4+ RO+ FOXP3+ INFg- d1,0,0.0,628,immune_res
+immune_res__% CD4+ RO+ IL-17+ INFg+ d6,0,0.0,629,immune_res
+immune_res__% CD4+ RO+ IL-17+ INFg- d6,0,0.0,630,immune_res
+immune_res__% CD4+ RO+ IL-17- INFg+ d6,0,0.0,631,immune_res
+immune_res__% CD4+ RO+ IL-22+ IL-17+ d1,0,0.0,632,immune_res
+immune_res__% CD4+ RO+ IL-22+ IL-17- d1,0,0.0,633,immune_res
+immune_res__% CD4+ RO+ IL-22- IL-17+ d1,0,0.0,634,immune_res
+immune_res__% CD4+ RO+ INFg+ GMCSF+ d1,0,0.0,635,immune_res
+immune_res__% CD4+ RO+ INFg+ GMCSF- d1,0,0.0,636,immune_res
+immune_res__% CD4+ RO+ INFg+ GzA- d1,0,0.0,637,immune_res
+immune_res__% CD4+ RO+ INFg+ IL-17- d1,0,0.0,638,immune_res
+immune_res__% CD4+ RO+ INFg+ IL4+ d1,0,0.0,639,immune_res
+immune_res__% CD4+ RO+ INFg+ IL4- d1,0,0.0,640,immune_res
+immune_res__% CD4+ RO+ INFg+ TNFa+ d1,0,0.0,641,immune_res
+immune_res__% CD4+ RO+ INFg+ TNFa- d1,0,0.0,642,immune_res
+immune_res__% CD4+ RO+ INFg- GzA+ d1,0,0.0,643,immune_res
+immune_res__% CD4+ RO+ INFg- IL-17+ d1,0,0.0,644,immune_res
+immune_res__% CD4+ RO+ INFg- IL4+ d1,0,0.0,645,immune_res
+immune_res__% CD4+ RO+ INFg- TNFa+ d1,0,0.0,646,immune_res
+immune_res__% CD4+ RO+ d0,0,0.0,647,immune_res
+immune_res__% CD4+ RO+ total GzA+ d1,0,0.0,648,immune_res
+immune_res__% CD4+ RO+ total IL-17+ d1,0,0.0,649,immune_res
+immune_res__% CD4+ RO+ total IL-17+ d6,0,0.0,650,immune_res
+immune_res__% CD4+ RO+ total INFg+ d1 P13,0,0.0,651,immune_res
+immune_res__% CD4+ RO+ total INFg+ d1 P8,0,0.0,652,immune_res
+immune_res__% CD4+ RO+ total INFg+ d6,0,0.0,653,immune_res
+immune_res__% CD4+ RO+ total TNFa+ d1,0,0.0,654,immune_res
+immune_res__% CD4+ RO+/- CD27+ CD161+ INFg+ d1,0,0.0,655,immune_res
+immune_res__% CD4+ RO+/- CD27+ CD161+ INFg- d1,0,0.0,656,immune_res
+immune_res__% CD4+ RO+/- CD27+ CD161- INFg+ d1,0,0.0,657,immune_res
+immune_res__% CD4+ RO- CCR7+ d0,0,0.0,658,immune_res
+immune_res__% CD8+ IL-17+ IL-22- d6,0,0.0,659,immune_res
+immune_res__% CD8+ IL-17+ INFg+ d6,0,0.0,660,immune_res
+immune_res__% CD8+ IL-17+ INFg- d6,0,0.0,661,immune_res
+immune_res__% CD8+ INFg+ GzA+ d1,0,0.0,662,immune_res
+immune_res__% CD8+ INFg+ GzA- d1,0,0.0,663,immune_res
+immune_res__% CD8+ INFg+ IL4- d1,0,0.0,664,immune_res
+immune_res__% CD8+ INFg+ TNFa+ d1 P13,0,0.0,665,immune_res
+immune_res__% CD8+ INFg+ TNFa+ d1 P8,0,0.0,666,immune_res
+immune_res__% CD8+ INFg+ TNFa- d1 P13,0,0.0,667,immune_res
+immune_res__% CD8+ INFg- GzA+ d1,0,0.0,668,immune_res
+immune_res__% CD8+ INFg- IL4+ d1,0,0.0,669,immune_res
+immune_res__% CD8+ INFg- TNFa+ d1 P8,0,0.0,670,immune_res
+immune_res__% CD8+ M CCR4+ CXCR3+ d0,0,0.0,671,immune_res
+immune_res__% CD8+ M CCR4- CXCR3+ d0,0,0.0,672,immune_res
+immune_res__% CD8+ M CCR6- CXCR3+ d0,0,0.0,673,immune_res
+immune_res__% CD8+ M CCR7- CXCR5+ d0,0,0.0,674,immune_res
+immune_res__% CD8+ M total CXCR3+ d0,0,0.0,675,immune_res
+immune_res__% CD8+ MAIT INFg+ GzA- d1,0,0.0,676,immune_res
+immune_res__% CD8+ MAIT INFg+ TNFa+ d6,0,0.0,677,immune_res
+immune_res__% CD8+ MAIT INFg+ TNFa- d6,0,0.0,678,immune_res
+immune_res__% CD8+ MAIT INFg- TNFa+ d6,0,0.0,679,immune_res
+immune_res__% CD8+ MAIT d1,0,0.0,680,immune_res
+immune_res__% CD8+ MAIT total IL-17+ d6,0,0.0,681,immune_res
+immune_res__% CD8+ MAIT total INFg+ d6,0,0.0,682,immune_res
+immune_res__% CD8+ RO+ CCR6+ IL-17+ INFg- d1,0,0.0,683,immune_res
+immune_res__% CD8+ RO+ CCR6+ IL-17- INFg+ d1,0,0.0,684,immune_res
+immune_res__% CD8+ RO+ CCR6- IL4- GMCSF+ d1,0,0.0,685,immune_res
+immune_res__% CD8+ RO+ CCR6- INFg+ TNFa+ d1,0,0.0,686,immune_res
+immune_res__% CD8+ RO+ CCR6- INFg- TNFa+ d1,0,0.0,687,immune_res
+immune_res__% CD8+ RO+ CCR6- total TNFa+ d1,0,0.0,688,immune_res
+immune_res__% CD8+ RO+ CCR7+ d0,0,0.0,689,immune_res
+immune_res__% CD8+ RO+ CCR7- d0,0,0.0,690,immune_res
+immune_res__% CD8+ RO+ CD27+ d0,0,0.0,691,immune_res
+immune_res__% CD8+ RO+ CD31+ CD27- d0,0,0.0,692,immune_res
+immune_res__% CD8+ RO+ CD31- CD27+ d0,0,0.0,693,immune_res
+immune_res__% CD8+ RO+ Va7.2- INFg+ TNFa+ d6,0,0.0,694,immune_res
+immune_res__% CD8+ RO+ Va7.2- INFg- TNFa+ d6,0,0.0,695,immune_res
+immune_res__% CD8+ RO+ Va7.2- total TNFa+ d6,0,0.0,696,immune_res
+immune_res__% CD8+ RO- CCR6- IL4+ GMCSF- d1,0,0.0,697,immune_res
+immune_res__% CD8+ RO- CCR6- INFg+ TNFa+ d1,0,0.0,698,immune_res
+immune_res__% CD8+ RO- CCR6- INFg+ TNFa- d1,0,0.0,699,immune_res
+immune_res__% CD8+ RO- CCR6- INFg- TNFa+ d1,0,0.0,700,immune_res
+immune_res__% CD8+ RO- CCR7- d0,0,0.0,701,immune_res
+immune_res__% CD8+ RO- CD27- d0,0,0.0,702,immune_res
+immune_res__% CD8+ RO- Va7.2- INFg+ TNFa- d6,0,0.0,703,immune_res
+immune_res__% CD8+ RO- Va7.2- INFg- TNFa+ d6,0,0.0,704,immune_res
+immune_res__% CD8+ RO- Va7.2- total INFg+ d6,0,0.0,705,immune_res
+immune_res__% CD8+ non-MAIT total INFg+ d1,0,0.0,706,immune_res
+immune_res__% CD8+ nonMAIT INFg+ GzA+ d1,0,0.0,707,immune_res
+immune_res__% CD8+ nonMAIT INFg+ GzA- d1,0,0.0,708,immune_res
+immune_res__% CD8+ nonMAIT INFg+ TNFa+ d1,0,0.0,709,immune_res
+immune_res__% CD8+ nonMAIT INFg+ TNFa- d1,0,0.0,710,immune_res
+immune_res__% CD8+ nonMAIT INFg- GzA+ d1,0,0.0,711,immune_res
+immune_res__% CD8+ nonMAIT INFg- TNFa+ d1,0,0.0,712,immune_res
+immune_res__% CD8+ nonMAIT total GzA+ d1,0,0.0,713,immune_res
+immune_res__% CD8+ nonMAIT total INFg+ d1,0,0.0,714,immune_res
+immune_res__% CD8+ total GzA+ d1,0,0.0,715,immune_res
+immune_res__% CD8+ total IL-17+ d6,0,0.0,716,immune_res
+immune_res__% CD8+ total INFg+ d1,0,0.0,717,immune_res
+immune_res__% CD8+ total INFg+ d1 P13,0,0.0,718,immune_res
+immune_res__% CD8+ total INFg+ d1 P8,0,0.0,719,immune_res
+immune_res__% DN RO+ CCR6- INFg+ TNFa+ d1,0,0.0,720,immune_res
+immune_res__% DN RO+ CCR6- INFg+ TNFa- d1,0,0.0,721,immune_res
+immune_res__% DN RO- CCR6- INFg+ TNFa+ d1,0,0.0,722,immune_res
+immune_res__% DN RO- CCR6- INFg+ TNFa- d1,0,0.0,723,immune_res
+immune_res__% DN in total MAIT d6,0,0.0,724,immune_res
+immune_res__% DR+ CD3- d0,0,0.0,725,immune_res
+immune_res__% pDcs d0,0,0.0,726,immune_res
+immune_res__% viable CD3+ d6,0,0.0,727,immune_res
+immune_res__% viable CD3- CCR6- CD161+ INFg- d1,0,0.0,728,immune_res
+immune_res__% viable CD3- CCR6- GzA+ INFg- d1,0,0.0,729,immune_res
+immune_res__%CD4+ MAIT d0,0,0.0,730,immune_res
+immune_res__%CD8+ CD161+ Va7.2- d0,0,0.0,731,immune_res
+immune_res__%CD8+ MAIT d0,0,0.0,732,immune_res
+immune_res__%DN CD161+ Va7.2- d0,0,0.0,733,immune_res
+immune_res__CD3+ gdTCR+ CD3hi,0,0.0,734,immune_res
+immune_res__CD4+ CCR6+ as % of RO+,0,0.0,735,immune_res
+immune_res__CD8+ % RO+ CD27+ d0,0,0.0,736,immune_res
+immune_res__CD8+ % RO+ CD27- d0,0,0.0,737,immune_res
+immune_res__CD8+ % RO- CD27+ d0,0,0.0,738,immune_res
+immune_res__CD8+ % RO- CD27- d0,0,0.0,739,immune_res
+immune_res__CD8+ DN+ MAIT % RO+ CD27+ d0,0,0.0,740,immune_res
+immune_res__CD8+ DN+ MAIT % RO+ CD27- d0,0,0.0,741,immune_res
+immune_res__CD8+ MAIT % RO+ CD27- d0,0,0.0,742,immune_res
+immune_res__NK % CD56+ CD16+,0,0.0,743,immune_res
+immune_res__NK % CD56hi CD16-,0,0.0,744,immune_res
+immune_res__NK % CD56lo CD16-,0,0.0,745,immune_res
+immune_res__total % CD3 d0,0,0.0,746,immune_res
+immune_res__total % CD8+ d6,0,0.0,747,immune_res
+immune_res__total % DN d0,0,0.0,748,immune_res
+quest__ALT,0,0.0,749,quest
+quest__Absolute Monocytes,0,0.0,750,quest
+quest__Albumin/Globulin Ratio,0,0.0,751,quest
+quest__Basophils,0,0.0,752,quest
+"quest__Bilirubin, Total",0,0.0,753,quest
+quest__Calcium,0,0.0,754,quest
+quest__Creatinine,0,0.0,755,quest
+quest__Hemocrit,0,0.0,756,quest
+quest__Hemoglobin,0,0.0,757,quest
+quest__MCHC,0,0.0,758,quest
+quest__Neutrophils,0,0.0,759,quest
+quest__RDW,0,0.0,760,quest
+quest__Red Blood Cell Count,0,0.0,761,quest
+quest__White Blood Cell Count,0,0.0,762,quest
+quest__eGFR African American,0,0.0,763,quest
+quest__eGFR non-African American,0,0.0,764,quest
+species__Alistipes_putredinis,0,0.0,765,species
+species__Anaerostipes_hadrus,0,0.0,766,species
+species__Bacteroidaceae_bacterium,0,0.0,767,species
+species__Bacteroides_eggerthii,0,0.0,768,species
+species__Bacteroides_intestinalis,0,0.0,769,species
+species__Bifidobacterium_longum,0,0.0,770,species
+species__Bilophila_wadsworthia,0,0.0,771,species
+species__Candidatus_Cibiobacter_qucibialis,0,0.0,772,species
+species__Candidatus_Gastranaerophilales_bacterium,0,0.0,773,species
+species__Clostridium_fessum,0,0.0,774,species
+species__Clostridium_sp_AF36_4,0,0.0,775,species
+species__Coprococcus_comes,0,0.0,776,species
+species__GGB3746_SGB5089,0,0.0,777,species
+species__Lachnospira_eligens,0,0.0,778,species
+species__Lachnospira_pectinoschiza,0,0.0,779,species
+species__Odoribacter_laneus,0,0.0,780,species
+species__Phocaeicola_dorei,0,0.0,781,species
+species__Prevotella_copri_clade_C,0,0.0,782,species
+species__Prevotella_sp_885,0,0.0,783,species
+species__Prevotella_stercorea,0,0.0,784,species
+species__Roseburia_hominis,0,0.0,785,species
+species__Roseburia_intestinalis,0,0.0,786,species
+species__Roseburia_inulinivorans,0,0.0,787,species
+species__Ruminococcus_bromii,0,0.0,788,species
+species__Streptococcus_thermophilus,0,0.0,789,species
+species__Sutterella_wadsworthensis,0,0.0,790,species

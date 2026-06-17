@@ -1,0 +1,3 @@
+model,heldout_test_auc,notes
+locked_10_metabolites,,Original locked metabolite panel
+multiomics_consensus_panel,0.8251273344651952,Consensus LASSO across available modalities

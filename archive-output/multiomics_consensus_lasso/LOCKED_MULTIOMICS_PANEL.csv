@@ -1,0 +1,16 @@
+feature
+quest__Vitamin B12
+species__Dysosmobacter_welbionis
+metab__1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+metab__N-palmitoyl-sphingosine (d18:1/16:0)
+metab__N-acetylglutamate
+metab__3-(4-hydroxyphenyl)lactate
+species__GGB1266_SGB1699
+metab__1-methylurate
+metab__N4-acetylcytidine
+"metab__sphingomyelin (d18:1/24:1, d18:2/24:0)*"
+metab__N-acetylglucosamine/N-acetylgalactosamine
+metab__vanillylmandelate (VMA)
+species__Phocaeicola_plebeius
+immune_res__% CD4+ CD161+ Va7.2- d6
+immune_pct__CD8+ DN+ MAIT % RO- CD27- d0

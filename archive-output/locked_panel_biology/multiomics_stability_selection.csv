@@ -1,0 +1,449 @@
+feature,count,frequency
+quest__Vitamin B12,375,0.75
+metab__N-acetylglutamate,301,0.602
+species__Dysosmobacter_welbionis,300,0.6
+metab__N4-acetylcytidine,293,0.586
+metab__N-palmitoyl-sphingosine (d18:1/16:0),291,0.582
+metab__3-(4-hydroxyphenyl)lactate,291,0.582
+species__GGB1266_SGB1699,287,0.574
+"metab__sphingomyelin (d18:1/24:1, d18:2/24:0)*",286,0.572
+metab__vanillylmandelate (VMA),273,0.546
+metab__1-methylurate,259,0.518
+metab__1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),244,0.488
+species__Faecalibacterium_SGB15346,232,0.464
+immune_res__NK Cells (% CD3- 2B4+),219,0.438
+immune_pct__NK Cells (% CD3- 2B4+),204,0.408
+species__Phocaeicola_plebeius,186,0.372
+immune_pct__% CD4+ RO+ CD161+ total IL-17+ d6,178,0.356
+species__Bacteroides_ovatus,173,0.346
+immune_res__% CD4+ RO+ CD161+ total IL-17+ d6,165,0.33
+immune_res__% viable CD3- CCR6- GzA+ INFg+ d1,162,0.324
+immune_pct__% CD4+ CD161+ Va7.2- d6,159,0.318
+immune_res__% CD4+ CD161+ Va7.2- d6,155,0.31
+immune_pct__% viable CD3- CCR6- GzA+ INFg+ d1,149,0.298
+species__Dialister_invisus,121,0.242
+species__Barnesiella_intestinihominis,119,0.238
+species__Clostridium_sp_AF15_49,118,0.236
+immune_pct__% CD4+ RO+ CCR6+ total IL-17+ d1,112,0.224
+immune_res__% CD4+ RO+ CCR6+ total IL-17+ d1,110,0.22
+metab__N-acetylglucosamine/N-acetylgalactosamine,109,0.218
+immune_res__% DN RO+ CCR6+ d1,108,0.216
+immune_pct__% DN RO- CCR6- INFg- TNFa+ d1,107,0.214
+immune_res__% DN RO- CCR6- INFg- TNFa+ d1,106,0.212
+species__Odoribacter_splanchnicus,104,0.208
+immune_pct__% DN RO+ CCR6+ d1,104,0.208
+quest__Potassium,96,0.192
+immune_res__% CD8+ M CCR6+ CXCR3- d0,92,0.184
+immune_res__% CD4+ RO+ CCR6+ CD161- d6,92,0.184
+immune_res__% CD19+ CD3- CD27+ IgG+ d0,89,0.178
+immune_pct__DN % RO- CD27+ d0,89,0.178
+immune_res__DN % RO+ CD27- d0,89,0.178
+immune_res__% CD8+ INFg+ IL4+ d1,80,0.16
+immune_pct__% CD4+ RO+ CD161+ IL-17+ INFg+ d6,78,0.156
+immune_pct__% CD4+ MAIT d6,78,0.156
+species__GGB9635_SGB15106,78,0.156
+species__Paraprevotella_clara,77,0.154
+quest__Globulin,77,0.154
+immune_pct__% CD4+ RO- CCR7- d0,76,0.152
+species__Rikenellaceae_bacterium,76,0.152
+immune_pct__% CD4+ RO+ CCR6+ IL-22+ IL-17+ d1,74,0.148
+species__Clostridium_sp_AM49_4BH,73,0.146
+species__Bacteroides_stercoris,73,0.146
+immune_pct__CD8+ DN+ MAIT % RO- CD27+ d0,72,0.144
+species__Bacteroides_thetaiotaomicron,72,0.144
+species__Ruminococcaceae_unclassified_SGB15265,72,0.144
+immune_res__% CD4+ MAIT d6,71,0.142
+immune_pct__% CD19+ CD3- CD27+ IgG+ d0,70,0.14
+immune_res__% CD4+ RO+ INFg- GMCSF+ d1,70,0.14
+immune_res__% DN RO- CCR6- total TNFa+ d1,69,0.138
+immune_res__% CD8+ RO- CCR7+ d0,69,0.138
+immune_res__% CD4+ RO+ CD161+ IL-17+ INFg+ d6,68,0.136
+immune_pct__% CD4+ N FOXP3+ d1,67,0.134
+immune_pct__% DN RO- CCR6- total TNFa+ d1,67,0.134
+immune_res__CD8+ DN+ MAIT % RO- CD27+ d0,66,0.132
+immune_res__Total gd Cells (gdTCR CD3hi + CD3lo),63,0.126
+immune_res__% CD8+ RO+ CCR6- INFg+ TNFa- d1,63,0.126
+immune_res__% CD8+ RO- CCR6- IL4+ GMCSF- d1,59,0.118
+immune_res__% CD4+ RO- CCR7- d0,58,0.116
+species__Bacteroides_fragilis,58,0.116
+species__Pseudoruminococcus_massiliensis,58,0.116
+immune_pct__% CD8+ INFg+ IL4+ d1,55,0.11
+immune_pct__% CD8+ RO- CCR6- IL4+ GMCSF- d1,55,0.11
+immune_pct__% CD4+ RO- CD27- (TEMRA) d0,54,0.108
+immune_res__% CD8+ INFg+ TNFa- d1 P8,54,0.108
+immune_res__% CD4+ RO+ CCR6+ IL-22+ IL-17+ d1,52,0.104
+quest__Monocytes,52,0.104
+immune_pct__% CD8+ INFg+ TNFa- d1 P8,52,0.104
+immune_res__DN % RO- CD27+ d0,52,0.104
+quest__Absolute Neutrophils,50,0.1
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL-17+ d1,49,0.098
+immune_pct__% CD8+ M total CCR6+ d0,49,0.098
+immune_res__% CD8+ M CCR6+ CXCR3+ d0,47,0.094
+species__GGB9342_SGB14306,46,0.092
+species__GGB3293_SGB4348,45,0.09
+immune_pct__% CD8+ RO+ CCR6- IL4+ GMCSF- d1,44,0.088
+immune_res__% CD8+ RO+ CCR6- IL4+ GMCSF- d1,44,0.088
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL4+ d1,44,0.088
+species__Lachnospira_sp_NSJ_43,44,0.088
+immune_pct__CD8+ DN+ MAIT % RO- CD27- d0,43,0.086
+species__Clostridiaceae_bacterium,43,0.086
+immune_pct__% CD4+ CCR7+ RO- CXCR5+ d0,42,0.084
+immune_res__% CD4+ RO+ CCR6- IL-17+ INFg+ d6,40,0.08
+immune_res__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg+ d6,39,0.078
+immune_pct__% CD4+ RO+ CCR6- IL-17+ INFg+ d6,39,0.078
+quest__Creatinine,37,0.074
+immune_pct__% viable CD3- CCR6- CD161+ INFg+ d1,37,0.074
+immune_res__% CD4+ CCR7+ RO- CXCR5+ d0,37,0.074
+immune_pct__% CD4+ RO+ INFg- GMCSF+ d1,34,0.068
+immune_res__% CD4+ RO+ CCR6- d6,33,0.066
+immune_pct__% CD14+ d0,32,0.064
+immune_pct__% CD8+ RO- CCR6- total TNFa+ d1,31,0.062
+immune_pct__% CD4+ RO+ CCR6- d6,31,0.062
+species__Flavonifractor_plautii,31,0.062
+immune_res__% CD3- CD19- DR+ CD14+ d0,31,0.062
+immune_res__% CD4+ RO+ CCR6+ INFg+ IL-17+ d1,31,0.062
+immune_res__% viable CD3- CCR6- CD161+ INFg+ d1,30,0.06
+immune_res__% CD8+ MAIT INFg- TNFa+ d1,30,0.06
+immune_pct__% CD8+ RO+ CCR6+ d1,29,0.058
+immune_pct__% DN d6,28,0.056
+immune_pct__% DN RO+ CCR6- INFg- TNFa+ d1,27,0.054
+species__Clostridium_sp_AF34_13,27,0.054
+immune_pct__% CD8+ RO+ CCR6+ IL-17+ INFg- d1,26,0.052
+bmi,26,0.052
+species__Parasutterella_excrementihominis,25,0.05
+species__Sutterella_wadsworthensis,25,0.05
+immune_res__% CD8+ RO+ CCR6+ d1,25,0.05
+species__Sutterella_SGB9281,24,0.048
+species__Ruminococcus_gnavus,22,0.044
+species__Ruminococcaceae_unclassified_SGB15234,22,0.044
+immune_res__% CD8+ RO+ CCR6+ IL-17+ INFg- d1,22,0.044
+species__GGB9758_SGB15368,22,0.044
+species__GGB6613_SGB9347,22,0.044
+immune_res__% CD4+ N FOXP3+ d1,22,0.044
+species__GGB6601_SGB9333,22,0.044
+immune_res__% DN RO+ CCR6- total INFg+ d1,21,0.042
+immune_res__% viable CD3- CCR6- d1,21,0.042
+immune_pct__% CD8+ MAIT INFg+ TNFa+ d1,20,0.04
+immune_pct__% viable CD3- CCR6- d1,19,0.038
+metab__4-vinylguaiacol sulfate,19,0.038
+quest__HDL Cholesterol,19,0.038
+immune_res__% CD14+ d0,18,0.036
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL4- d1,18,0.036
+immune_pct__viable CD8+ MAIT d6,18,0.036
+immune_res__% CD8+ RO- CD27+ d0,18,0.036
+immune_pct__% CD8+ MAIT total TNFa+ d6,18,0.036
+immune_res__% CD8+ RO+ CCR6+ IL4- GMCSF+ d1,17,0.034
+immune_pct__% CD4+ N Treg (FOXP3+ HELIOS+) d1,17,0.034
+species__Faecalibacterium_prausnitzii,17,0.034
+species__Roseburia_sp_AF02_12,17,0.034
+quest__Platelet Count,17,0.034
+immune_res__% CD4+ RO+ total TNFa+ d1,17,0.034
+immune_pct__% CD4+ RO+ total TNFa+ d1,17,0.034
+immune_res__CD8+ DN+ MAIT % RO- CD27- d0,17,0.034
+immune_res__DN % RO- CD27- d0,17,0.034
+immune_res__viable CD8+ MAIT d6,17,0.034
+immune_pct__% CD4+ M CD25+ CD27- d0,17,0.034
+immune_res__% CD8+ RO+ CD31+ CD27+ d0,16,0.032
+species__Phocaeicola_coprocola,16,0.032
+quest__Absolute Lymphocytes,16,0.032
+immune_pct__% CD8+ MAIT INFg- TNFa+ d6,16,0.032
+species__Parabacteroides_merdae,15,0.03
+species__Ruminococcaceae_unclassified_SGB4191,15,0.03
+immune_res__% CD4+ CCR7+ RO- CD31+ CXCR3- d0,15,0.03
+species__Clostridia_unclassified_SGB4367,15,0.03
+immune_res__% CD8+ RO- Va7.2- INFg+ TNFa+ d6,15,0.03
+immune_pct__% CD8+ RO- CCR6- INFg- TNFa+ d1,15,0.03
+immune_pct__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17- d1,15,0.03
+immune_pct__Total gd Cells (gdTCR CD3hi + CD3lo),15,0.03
+quest__Non HDL Cholesterol,14,0.028
+immune_res__% CD4+ RO+ CCR6+ CD161+ d6,14,0.028
+species__Prevotella_copri_clade_C,14,0.028
+immune_res__% DN RO+ CCR6- INFg- TNFa+ d1,13,0.026
+species__Bacteroides_faecis,13,0.026
+immune_res__% CD8+ RO- CCR6- INFg- TNFa+ d1,13,0.026
+immune_res__% viable CD3- CCR6- GzA- INFg+ d1,13,0.026
+immune_res__% CD8+ RO- Va7.2- total TNFa+ d6,13,0.026
+immune_res__% CD4+ RO- CD27- (TEMRA) d0,13,0.026
+immune_pct__% CD8+ M CCR7+ CXCR5+ d0,13,0.026
+immune_pct__% CD8+ RO- Va7.2- total TNFa+ d6,13,0.026
+species__GGB1681_SGB2313,13,0.026
+species__Bacteroides_cellulosilyticus,13,0.026
+species__Eubacterium_siraeum,12,0.024
+immune_pct__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg+ d6,12,0.024
+immune_pct__% CD4+ RO+ INFg+ IL-17+ d1,12,0.024
+immune_res__% CD4+ RO+ INFg+ IL-17+ d1,12,0.024
+immune_pct__CD8+ MAIT % RO+ CD27- d0,12,0.024
+immune_pct__% CD8+ MAIT INFg+ GzA+ d1,12,0.024
+immune_res__% CD8+ RO+ Va7.2- total INFg+ d6,11,0.022
+quest__White Blood Cell Count,11,0.022
+species__Ruminococcus_torques,11,0.022
+immune_res__% CD8+ M CCR7+ CXCR5+ d0,11,0.022
+immune_res__% CD4+ RO+ CCR6- total IL-17+ d6,11,0.022
+species__Bacteroides_caccae,11,0.022
+species__Parabacteroides_johnsonii,11,0.022
+immune_res__% CD8+ MAIT INFg+ GzA+ d1,11,0.022
+immune_res__% CD8+ RO+ Va7.2- INFg+ TNFa- d6,11,0.022
+gender_Male,11,0.022
+immune_pct__% CD8+ RO+ CCR6+ IL-17+ INFg+ d1,11,0.022
+immune_res__CD8+ MAIT % RO+ CD27+ d0,11,0.022
+immune_pct__% CD4+ RO+ CCR6+ CD161- d6,10,0.02
+species__Parasutterella_SGB9260,10,0.02
+immune_res__% DN RO+ CCR6- INFg+ TNFa+ d1,10,0.02
+immune_pct__% CD8+ MAIT IL-17- INFg+ d6,10,0.02
+quest__MCHC,10,0.02
+immune_pct__% CD8+ RO+ CCR6- INFg+ TNFa- d1,10,0.02
+species__Clostridium_sp_AF34_10BH,9,0.018
+immune_pct__% CD4+ RO+ CCR6+ INFg- IL-17+ d1,9,0.018
+species__Acidaminococcus_intestini,9,0.018
+immune_pct__% CD4+ IL-17+ IL-22+ d6,9,0.018
+immune_res__% CD4+ RO+ INFg- GzA+ d1,9,0.018
+immune_pct__% CD4+ RO+ INFg- GzA+ d1,9,0.018
+immune_res__% CD4+ IL-17+ IL-22+ d6,9,0.018
+immune_pct__% CD8+ RO+ Va7.2- total INFg+ d6,8,0.016
+species__Alistipes_communis,8,0.016
+immune_res__% CD3- CD19- DR+ d0,8,0.016
+immune_res__% CD4+ M CCR4+ CXCR3+ d0,8,0.016
+species__Ruthenibacterium_lactatiformans,8,0.016
+species__Roseburia_intestinalis,8,0.016
+immune_res__% CD4+ N Treg (FOXP3+ HELIOS+) d1,8,0.016
+immune_res__CD3+ gdTCR+ CD3hi,8,0.016
+species__Bacteroides_finegoldii,8,0.016
+immune_pct__CD8+ % RO+ CD27- d0,8,0.016
+species__Bacteroides_salyersiae,8,0.016
+immune_pct__% CD8+ INFg- TNFa+ d1 P13,8,0.016
+immune_pct__%CD4+ MAIT d0,7,0.014
+quest__Alkaline Phosphatase,7,0.014
+immune_pct__% CD8+ MAIT INFg+ TNFa+ d6,7,0.014
+species__Alistipes_finegoldii,7,0.014
+quest__Absolute Basophils,7,0.014
+species__Bacteroides_eggerthii,7,0.014
+species__Lacrimispora_celerecrescens,7,0.014
+immune_res__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17+ d1,7,0.014
+immune_pct__% CD19+ CD3- CD27- IgG+ d0,7,0.014
+immune_pct__% CD3- CD19- DR+ d0,7,0.014
+immune_pct__% CD8+ RO- Va7.2- INFg+ TNFa+ d6,7,0.014
+immune_res__% CD8+ MAIT IL-17- INFg+ d6,7,0.014
+immune_res__% CD4+ CCR7+ RO- CD31+ CXCR3+ d0,7,0.014
+immune_pct__% Dcs d0,7,0.014
+immune_pct__% CD4+ RO+ CCR6+ CD161+ total IL-17+ d6,7,0.014
+immune_res__% CD8+ RO- Va7.2- total INFg+ d6,7,0.014
+immune_pct__%CD8+ CD161+ Va7.2- d6,6,0.012
+immune_res__% CD8+ INFg- TNFa+ d1 P13,6,0.012
+immune_pct__% CD4+ M Treg (FOXP3+ HELIOS+) d1,6,0.012
+species__GGB3746_SGB5089,6,0.012
+immune_pct__DN % RO+ CD27- d0,6,0.012
+immune_res__CD8+ % RO+ CD27- d0,6,0.012
+quest__eGFR African American,6,0.012
+immune_pct__% CD4+ RO+ FOXP3+ INFg- d1,6,0.012
+immune_res__% CD8+ in total MAIT d6,6,0.012
+species__Blautia_wexlerae,6,0.012
+immune_pct__% CD8+ M CCR6+ CXCR3- d0,6,0.012
+species__GGB9615_SGB15053,6,0.012
+immune_pct__% CD3- CD19- CD14+ CD16+,6,0.012
+immune_res__% CD19+ CD3- CD27+ IgG- d0,6,0.012
+immune_res__% CD3- CD19- CD14+ CD16+,6,0.012
+immune_res__% CD4+ M Treg (FOXP3+ HELIOS+) d1,6,0.012
+immune_res__% CD8+ and DN MAIT,6,0.012
+immune_res__% CD8+ RO+ CCR6- total INFg+ d1,6,0.012
+immune_res__% CD4+ RO+ CCR6+ CD161+ total IL-17+ d6,6,0.012
+immune_pct__% CD8+ and DN MAIT,6,0.012
+immune_pct__% CD8+ RO+ CCR6- total INFg+ d1,6,0.012
+immune_pct__% DN RO+ CCR6- total INFg+ d1,6,0.012
+immune_pct__% CD4+ INFg+ TNFa- d6,5,0.01
+species__Ruminococcus_bromii,5,0.01
+immune_pct__% CD8+ MAIT INFg- GzA+ d1,5,0.01
+species__Parabacteroides_distasonis,5,0.01
+immune_res__% CD8+ M total CCR4+ d0,5,0.01
+species__Blautia_faecis,5,0.01
+immune_res__% CD4+ INFg+ TNFa- d6,5,0.01
+immune_pct__% CD8+ RO- Va7.2- total INFg+ d6,5,0.01
+immune_res__%CD4+ MAIT d0,5,0.01
+immune_pct__% CD8+ RO- CCR6- IL4+ GMCSF+ d1,5,0.01
+species__Alistipes_shahii,5,0.01
+immune_res__%CD8+ CD161+ Va7.2- d6,5,0.01
+immune_pct__% CD8+ total INFg+ d6,5,0.01
+species__Lachnospiraceae_bacterium_WCA3_601_WT_6H,5,0.01
+species__Ruminococcaceae_unclassified_SGB15260,5,0.01
+immune_res__% CD8+ RO+ Va7.2- total TNFa+ d6,5,0.01
+species__Roseburia_faecis,5,0.01
+immune_pct__%DN MAIT d0,5,0.01
+immune_pct__% CD8+ RO+ Va7.2- total TNFa+ d6,5,0.01
+immune_res__viable total CD8+ d6,4,0.008
+immune_res__% CD4+ RO+ FOXP3+ INFg- d1,4,0.008
+species__Bacteroides_xylanisolvens,4,0.008
+immune_pct__CD3+ gdTCR+ CD3lo,4,0.008
+immune_res__% CD8+ RO+ CCR6+ IL-17+ INFg+ d1,4,0.008
+species__GGB6608_SGB9342,4,0.008
+species__Akkermansia_muciniphila,4,0.008
+immune_pct__% CD8+ RO+ Va7.2- INFg+ TNFa- d6,4,0.008
+species__Ruminococcus_sp_NSJ_71,4,0.008
+species__Akkermansia_sp_BIOML_A40,4,0.008
+immune_res__% Dcs d0,4,0.008
+immune_pct__% CD8+ MAIT INFg+ GzA- d1,4,0.008
+species__Phocaeicola_vulgatus,4,0.008
+immune_pct__% CD4+ RO+ CCR6- total IL-17+ d6,4,0.008
+immune_res__% CD8+ RO- CCR6- IL4- GMCSF+ d1,4,0.008
+immune_res__% CD8+ MAIT IL-17+ INFg+ d6,4,0.008
+immune_res__CD4+ CCR6+ as % of RO+,4,0.008
+immune_pct__% CD8+ IL-17- IL-22+ d6,4,0.008
+immune_res__% CD8+ IL-17+ INFg- d6,4,0.008
+immune_res__% CD8+ IL-17- IL-22+ d6,4,0.008
+immune_res__%DN MAIT d0,4,0.008
+species__Bacteroidaceae_bacterium,4,0.008
+immune_pct__% CD4+ RO+ CCR6+ CD161+ d6,4,0.008
+immune_res__% CD8+ MAIT INFg+ TNFa+ d1,4,0.008
+immune_res__CD3+ gdTCR+ CD3lo,3,0.006
+immune_pct__% CD4+ RO+ CCR6- INFg- TNFa+ d1,3,0.006
+immune_pct__% CD8+ M CCR7- CXCR5+ d0,3,0.006
+immune_res__% CD8+ RO+ CCR6+ IL-17- INFg+ d1,3,0.006
+species__GGB9176_SGB14114,3,0.006
+species__Bacteroides_intestinalis,3,0.006
+immune_res__% CD4+ RO+ CCR6- INFg- TNFa+ d1,3,0.006
+quest__Chol/HDLC Ratio,3,0.006
+immune_res__% CD8+ IL-17+ IL-22+ d6,3,0.006
+species__Roseburia_inulinivorans,3,0.006
+species__Alistipes_putredinis,3,0.006
+immune_res__% DN d6,3,0.006
+immune_pct__% CD4+ RO+ d6,3,0.006
+immune_pct__% CD4+ RO+ INFg- IL4+ d1,3,0.006
+immune_pct__% CD4+ RO+ CCR6+ IL-22- IL-17+ d1,3,0.006
+immune_res__% CD4+ RO+ INFg- IL4+ d1,3,0.006
+immune_res__% CD4+ RO+/- CD27+ CD161- INFg+ d1,3,0.006
+species__Lacrimispora_amygdalina,3,0.006
+immune_pct__% CD4+ RO+/- CD27+ CD161- INFg+ d1,3,0.006
+immune_pct__CD8+ DN+ MAIT % RO+ CD27- d0,3,0.006
+immune_res__% CD4+ RO+ CCR6+ IL-22- IL-17+ d1,3,0.006
+immune_pct__% CD4+ RO+ CCR6+ d6,3,0.006
+immune_pct__% CD19+ CD3- CD27+ IgG- d0,3,0.006
+immune_res__% CD8+ MAIT total INFg+ d1,3,0.006
+immune_res__% CD8+ RO+ CD31- CD27+ d0,3,0.006
+immune_pct__% CD4+ M CXCR5- CCR7+ d0,3,0.006
+immune_res__% CD8+ INFg- IL4+ d1,3,0.006
+immune_res__% CD8+ RO+ CD27- d0,3,0.006
+immune_pct__% CD8+ INFg- IL4+ d1,3,0.006
+immune_pct__% DN MAIT d6,3,0.006
+species__Coprococcus_eutactus,3,0.006
+species__Anaerostipes_hadrus,3,0.006
+immune_res__% CD8+ M CCR4+ CXCR3- d0,3,0.006
+immune_pct__% CD8+ M CCR4+ CXCR3- d0,3,0.006
+species__Prevotella_copri_clade_A,3,0.006
+age,3,0.006
+species__Roseburia_hominis,3,0.006
+quest__C-Reactive Protein,3,0.006
+immune_res__% CD8+ MAIT INFg+ GzA- d1,3,0.006
+immune_res__% CD4+ M CXCR5- CCR7+ d0,3,0.006
+immune_pct__% CD4+ RO+ CCR6+ INFg+ IL-17- d1,3,0.006
+immune_res__% CD4+ RO+ CCR6+ INFg- IL-17+ d1,3,0.006
+immune_res__% CD4+ RO+ d6,2,0.004
+immune_res__% CD4+ RO+ CCR6- IL-17+ INFg- d6,2,0.004
+immune_pct__% CD4+ RO+ CCR6- IL-17+ INFg- d6,2,0.004
+species__Clostridium_fessum,2,0.004
+species__Ruminococcus_lactaris,2,0.004
+immune_res__% DN MAIT d6,2,0.004
+species__Dorea_longicatena,2,0.004
+species__Prevotella_marseillensis,2,0.004
+immune_res__% CD4+ M CXCR5+ CCR7+ d0,2,0.004
+immune_pct__% DN RO- CCR6- INFg+ TNFa- d1,2,0.004
+immune_pct__% CD8+ RO- CCR6- IL4- GMCSF+ d1,2,0.004
+species__Escherichia_coli,2,0.004
+immune_res__% CD4+ M total CCR4+ d0,2,0.004
+species__Candidatus_Cibiobacter_qucibialis,2,0.004
+immune_res__% CD8+ RO- Va7.2- INFg+ TNFa- d6,2,0.004
+quest__Albumin/Globulin Ratio,2,0.004
+species__Blautia_obeum,2,0.004
+species__Collinsella_aerofaciens,2,0.004
+immune_pct__CD8+ MAIT % RO- CD27- d0,2,0.004
+immune_res__% CD8+ RO- CCR6- IL4+ GMCSF+ d1,2,0.004
+"quest__Protein, Total",2,0.004
+immune_pct__% CD4+ RO+ total IL-17+ d1,2,0.004
+immune_pct__% CD4+ M CCR6+ CXCR3+ d0,2,0.004
+immune_pct__% CD8+ MAIT total INFg+ d6,2,0.004
+immune_res__% CD4+ RO+ CCR6+ d6,2,0.004
+immune_pct__% CD8+ RO- Va7.2- INFg+ TNFa- d6,2,0.004
+immune_pct__% CD4+ M CXCR5+ CCR7+ d0,2,0.004
+immune_res__% CD8+ and DN,2,0.004
+immune_res__% DN RO- CCR6- INFg+ TNFa- d1,2,0.004
+immune_pct__% CD8+ total TNFa+ d1,2,0.004
+species__Bacteroides_uniformis,2,0.004
+immune_res__CD8+ MAIT % RO- CD27- d0,2,0.004
+immune_pct__% CD8+ MAIT INFg+ TNFa- d1,2,0.004
+immune_pct__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17+ d1,2,0.004
+immune_res__% CD8+ MAIT INFg+ TNFa- d1,2,0.004
+immune_res__% CD4+ RO+ IL-22+ IL-17+ d1,2,0.004
+immune_pct__% viable CD3- CCR6- CD161+ INFg- d1,2,0.004
+immune_pct__% CD4+ RO+ total INFg+ d1 P13,2,0.004
+immune_res__% CD8+ total TNFa+ d1,2,0.004
+immune_pct__% viable CD3+ d6,2,0.004
+species__Streptococcus_thermophilus,2,0.004
+immune_pct__% CD8+ RO+ CD31+ CD27+ d0,2,0.004
+immune_res__% CD4+ RO+ CD27+ (TCM) d0,1,0.002
+immune_pct__% CD8+ RO+ CCR6- INFg- TNFa+ d1,1,0.002
+species__Coprococcus_comes,1,0.002
+immune_res__% CD8+ RO+ CCR6- INFg- TNFa+ d1,1,0.002
+immune_res__% CD8+ MAIT total IL-17+ d6,1,0.002
+immune_pct__% CD4+ RO+ CD27+ (TCM) d0,1,0.002
+immune_res__% CD4+ RO+/- CD27+ CD161+ INFg- d1,1,0.002
+immune_res__DN % RO+ CD27+ d0,1,0.002
+immune_res__%CD8+ MAIT d6,1,0.002
+immune_pct__%CD8+ MAIT d6,1,0.002
+species__Gemmiger_formicilis,1,0.002
+immune_res__% CD8+ nonMAIT INFg+ TNFa+ d1,1,0.002
+immune_pct__% CD8+ nonMAIT INFg+ TNFa+ d1,1,0.002
+immune_pct__% CD4+ RO+/- CD27+ CD161+ INFg- d1,1,0.002
+species__Prevotella_stercorea,1,0.002
+immune_res__% CD4+ RO+ INFg+ GzA+ d1,1,0.002
+immune_res__% CD8+ IL-17+ IL-22- d6,1,0.002
+species__Blautia_massiliensis,1,0.002
+species__GGB9602_SGB15031,1,0.002
+species__Prevotella_sp_885,1,0.002
+immune_pct__CD4:CD8 d6,1,0.002
+quest__Calcium,1,0.002
+immune_res__% CD4+ RO+ INFg- IL-17+ d1,1,0.002
+immune_pct__% CD8+ in total MAIT d6,1,0.002
+immune_pct__CD3+ gdTCR+ CD3hi,1,0.002
+immune_res__% CD4+ RO+ CD161+ IL-17+ INFg- d6,1,0.002
+immune_pct__% CD4+ RO+ CD161+ IL-17+ INFg- d6,1,0.002
+species__Lachnospira_SGB5077,1,0.002
+immune_pct__% CD4+ RO+ FOXP3+ INFg- TNFa- IL-17+ d1,1,0.002
+immune_pct__% CD4+ CCR7+ RO- CD31- CXCR3+ d0,1,0.002
+immune_pct__% CD4+ RO+ IL-22+ IL-17+ d1,1,0.002
+species__Clostridiales_bacterium,1,0.002
+immune_pct__% viable CD3+ of total CD3+,1,0.002
+immune_pct__% DN RO+ CCR6- INFg+ TNFa+ d1,1,0.002
+immune_res__% CD4+ RO- CCR7+ d0,1,0.002
+immune_res__% CD8+ M total CCR6+ d0,1,0.002
+immune_pct__% CD4+ RO- CCR7+ d0,1,0.002
+immune_pct__% CD4+ RO+ INFg+ GzA- d1,1,0.002
+immune_pct__% CD3- CD19- DR+ CD14+ d0,1,0.002
+immune_res__% CD8+ MAIT total Granzyme+ d1,1,0.002
+immune_res__% CD8+ RO+ CCR7- d0,1,0.002
+immune_res__% CD8+ M CCR4+ CXCR3+ d0,1,0.002
+immune_pct__% CD8+ nonMAIT INFg+ GzA- d1,1,0.002
+immune_res__% CD4+ CD161+ Va7.2- d0,1,0.002
+immune_res__% CD8+ nonMAIT INFg+ GzA- d1,1,0.002
+immune_pct__% CD4+ CD161+ Va7.2- d0,1,0.002
+immune_res__CD8+ % RO- CD27+ d0,1,0.002
+immune_pct__% CD8+ IL-17+ IL-22- d6,1,0.002
+immune_pct__% CD8+ MAIT total Granzyme+ d1,1,0.002
+immune_pct__% CD8+ IL-17+ INFg- d6,1,0.002
+quest__Hemoglobin,1,0.002
+immune_pct__% CD8+ M total CCR4+ d0,1,0.002
+quest__Carbon Dioxide,1,0.002
+immune_res__% viable CD3+ of total CD3+,1,0.002
+immune_res__% CD4+ RO+ CCR6+ d1,1,0.002
+immune_pct__% CD8+ MAIT total INFg+ d1,1,0.002
+immune_pct__% pDcs d0,1,0.002
+species__Ruminococcus_bicirculans,1,0.002
+immune_pct__% CD4+ IL-17- IL-22+ d6,1,0.002
+immune_res__% CD4+ IL-17- IL-22+ d6,1,0.002
+immune_pct__% CD8+ IL-17+ IL-22+ d6,1,0.002
+species__Phocaeicola_dorei,1,0.002
+immune_res__% pDcs d0,1,0.002
+immune_res__% CD4+  RO- CD27+ (TN) d0,1,0.002
+immune_pct__CD8+ DN+ MAIT % RO+ CD27+ d0,1,0.002
+quest__Absolute Eosinophils,1,0.002
+immune_pct__% CD4+ RO+ CCR6+ d1,1,0.002
+species__Phocaeicola_massiliensis,1,0.002
+"quest__Bilirubin, Total",1,0.002
+immune_res__% CD8+ MAIT INFg- GzA+ d1,1,0.002
+immune_res__CD4:CD8 d0,1,0.002
