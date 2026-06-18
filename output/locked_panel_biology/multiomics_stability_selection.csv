@@ -1,0 +1,885 @@
+feature,count,frequency
+quest__Vitamin B12,297,0.594
+kegg__K02121,285,0.57
+metab__3-(4-hydroxyphenyl)lactate,239,0.478
+metab__1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),235,0.47
+metab__N4-acetylcytidine,232,0.464
+species__GGB1266_SGB1699,219,0.438
+metab__N-palmitoyl-sphingosine (d18:1/16:0),218,0.436
+metab__N-acetylglutamate,211,0.422
+metab__1-methylurate,186,0.372
+metab__N-acetylglucosamine/N-acetylgalactosamine,169,0.338
+immune_res__% CD8+ M CCR6+ CXCR3- d0,156,0.312
+metab__1-stearoyl-2-oleoyl-GPC (18:0/18:1),155,0.31
+"metab__sphingomyelin (d18:1/24:1, d18:2/24:0)*",152,0.304
+metab__vanillylmandelate (VMA),148,0.296
+species__Dysosmobacter_welbionis,144,0.288
+kegg__K08223,132,0.264
+immune_res__% CD4+ RO+ CD161+ total IL-17+ d6,131,0.262
+metab__catechol sulfate,129,0.258
+kegg__K21417,127,0.254
+kegg__K03650,121,0.242
+metab__tiglylcarnitine (C5:1-DC),121,0.242
+immune_res__% DN RO+ CCR6+ d1,120,0.24
+kegg__K07230,119,0.238
+kegg__K09740,114,0.228
+kegg__K19124,113,0.226
+immune_res__% CD4+ CD161+ Va7.2- d6,113,0.226
+"metab__branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*",111,0.222
+metab__glycochenodeoxycholate glucuronide (1),111,0.222
+kegg__K01546,103,0.206
+kegg__K05524,94,0.188
+immune_res__% CD8+ MAIT INFg+ GzA+ d1,84,0.168
+kegg__K19286,83,0.166
+metab__4-vinylguaiacol sulfate,82,0.164
+immune_res__% CD8+ RO+ CCR6+ d1,82,0.164
+metab__ethylparaben sulfate,81,0.162
+kegg__K03495,80,0.16
+immune_res__% CD4+ RO+ CD161+ IL-17+ INFg+ d6,79,0.158
+metab__N-palmitoyl-sphinganine (d18:0/16:0),78,0.156
+metab__X-25172,74,0.148
+metab__glycodeoxycholate 3-sulfate,73,0.146
+kegg__K03410,72,0.144
+immune_res__% CD4+ RO+ CCR6+ CD161+ total IL-17+ d6,72,0.144
+metab__4-methylguaiacol sulfate,72,0.144
+species__Phocaeicola_plebeius,71,0.142
+immune_res__% CD8+ INFg+ TNFa- d1 P8,71,0.142
+kegg__K19123,68,0.136
+immune_res__% CD4+ RO+ CCR6+ CD161- d6,67,0.134
+metab__S-methylcysteine sulfoxide,66,0.132
+kegg__K03709,60,0.12
+metab__glutarylcarnitine (C5-DC),59,0.118
+immune_res__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg+ d6,59,0.118
+species__Barnesiella_intestinihominis,59,0.118
+kegg__K03686,58,0.116
+quest__Non HDL Cholesterol,58,0.116
+kegg__K02346,58,0.116
+quest__Potassium,56,0.112
+kegg__K19428,55,0.11
+species__Clostridiaceae_bacterium,55,0.11
+metab__trigonelline (N'-methylnicotinate),53,0.106
+metab__imidazole lactate,53,0.106
+immune_res__% CD4+ RO- CCR7- d0,53,0.106
+metab__N-acetylneuraminate,52,0.104
+kegg__K01547,52,0.104
+metab__3-hydroxyadipate,50,0.1
+kegg__K00648,50,0.1
+kegg__K19125,49,0.098
+immune_res__NK Cells (% CD3- 2B4+),49,0.098
+kegg__K01182,49,0.098
+kegg__K03101,47,0.094
+kegg__K07794,46,0.092
+kegg__K19126,45,0.09
+kegg__K01814,45,0.09
+kegg__K02068,44,0.088
+kegg__K12942,43,0.086
+immune_res__CD8+ MAIT % RO- CD27+ d0,42,0.084
+kegg__K08659,42,0.084
+kegg__K07445,42,0.084
+species__Ruminococcaceae_unclassified_SGB4191,42,0.084
+kegg__K07755,42,0.084
+metab__2-naphthol sulfate,41,0.082
+metab__lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,41,0.082
+immune_res__% CD4+ RO+ CCR6+ total IL-17+ d1,40,0.08
+species__Odoribacter_splanchnicus,39,0.078
+kegg__K03925,39,0.078
+kegg__K01787,38,0.076
+metab__4-methylcatechol sulfate,38,0.076
+kegg__K01654,38,0.076
+metab__N-acetylmethionine,37,0.074
+kegg__K03581,37,0.074
+metab__X-13728,36,0.072
+kegg__K03803,35,0.07
+kegg__K11312,35,0.07
+bmi,35,0.07
+metab__isovalerylglycine,34,0.068
+kegg__K01198,34,0.068
+metab__xanthurenate,34,0.068
+metab__cysteine s-sulfate,34,0.068
+metab__N-acetylhistidine,33,0.066
+metab__X-11795,33,0.066
+metab__5-(galactosylhydroxy)-lysine,33,0.066
+metab__X-12849,32,0.064
+kegg__K18866,32,0.064
+metab__X-12707,32,0.064
+species__GGB9635_SGB15106,32,0.064
+species__Parasutterella_SGB9260,30,0.06
+metab__phenyllactate (PLA),30,0.06
+metab__4-hydroxyglutamate,30,0.06
+kegg__K02282,29,0.058
+kegg__K07483,29,0.058
+kegg__K00852,28,0.056
+immune_res__% CD4+ RO+ INFg- GMCSF+ d1,28,0.056
+kegg__K00244,28,0.056
+metab__X-10458,27,0.054
+immune_res__%CD8+ CD161+ Va7.2- d6,27,0.054
+species__Clostridium_sp_AF34_10BH,26,0.052
+species__Paraprevotella_clara,26,0.052
+metab__X-11849,26,0.052
+kegg__K19167,26,0.052
+kegg__K00869,26,0.052
+metab__undecanedioate (C11-DC),25,0.05
+kegg__K05303,25,0.05
+immune_res__CD8+ DN+ MAIT % RO- CD27+ d0,25,0.05
+kegg__K03770,25,0.05
+immune_res__% viable CD3- CCR6- CD161- INFg+ d1,25,0.05
+species__Rikenellaceae_bacterium,24,0.048
+metab__4-ethylphenylsulfate,24,0.048
+quest__Globulin,24,0.048
+metab__choline phosphate,24,0.048
+kegg__K18231,24,0.048
+kegg__K19092,23,0.046
+species__Faecalibacterium_SGB15346,23,0.046
+kegg__K19114,23,0.046
+kegg__K19789,23,0.046
+immune_res__% CD8+ MAIT INFg- GzA+ d1,23,0.046
+kegg__K02663,23,0.046
+metab__arabonate/xylonate,22,0.044
+species__Clostridium_sp_AM49_4BH,22,0.044
+kegg__K04562,22,0.044
+metab__X-24953,22,0.044
+kegg__K00560,21,0.042
+immune_res__% CD8+ RO- CCR7+ d0,21,0.042
+kegg__K19997,21,0.042
+immune_res__CD8+ MAIT % RO- CD27- d0,21,0.042
+metab__1-stearoyl-2-oleoyl-GPE (18:0/18:1),21,0.042
+metab__1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,21,0.042
+immune_res__% CD4+ CCR7+ RO- CXCR5+ d0,21,0.042
+metab__hydroxy-CMPF*,20,0.04
+immune_res__% viable CD3- CCR6- GzA+ INFg+ d1,20,0.04
+species__Dialister_invisus,20,0.04
+kegg__K04757,20,0.04
+kegg__K14188,20,0.04
+kegg__K03748,20,0.04
+kegg__K00287,19,0.038
+kegg__K01971,19,0.038
+kegg__K00983,19,0.038
+kegg__K01835,19,0.038
+kegg__K10681,19,0.038
+species__Clostridium_sp_AF15_49,19,0.038
+kegg__K04940,19,0.038
+immune_res__% CD8+ MAIT total INFg+ d1,19,0.038
+kegg__K13671,18,0.036
+metab__lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*,18,0.036
+species__Alistipes_communis,18,0.036
+kegg__K10027,18,0.036
+kegg__K03734,18,0.036
+metab__X-13866,17,0.034
+metab__chenodeoxycholate,17,0.034
+kegg__K07443,17,0.034
+kegg__K09988,16,0.032
+kegg__K06921,16,0.032
+kegg__K21465,16,0.032
+metab__oleamide,16,0.032
+kegg__K09859,16,0.032
+kegg__K19170,16,0.032
+metab__N-acetyltyrosine,15,0.03
+kegg__K03169,15,0.03
+kegg__K06156,15,0.03
+species__Sutterella_SGB9281,15,0.03
+kegg__K09004,15,0.03
+immune_res__% CD4+ RO+ CCR6- IL-17+ INFg+ d6,15,0.03
+kegg__K20489,15,0.03
+kegg__K03106,15,0.03
+metab__vanillic acid glycine,15,0.03
+immune_res__% CD8+ M CCR4+ CXCR3- d0,15,0.03
+metab__X-23787,15,0.03
+kegg__K03411,15,0.03
+kegg__K05567,15,0.03
+kegg__K01476,15,0.03
+metab__4-hydroxycoumarin,15,0.03
+kegg__K05570,15,0.03
+immune_res__% CD4+ RO+ CCR6+ IL-22+ IL-17+ d1,14,0.028
+metab__4-ethylcatechol sulfate,14,0.028
+metab__N-acetyl-2-aminooctanoate*,14,0.028
+kegg__K02589,14,0.028
+"metab__5,6-dihydrothymine",14,0.028
+immune_res__% CD8+ RO+ CCR6- INFg+ TNFa- d1,14,0.028
+kegg__K10563,14,0.028
+kegg__K00986,14,0.028
+kegg__K07005,14,0.028
+kegg__K06412,14,0.028
+kegg__K05919,14,0.028
+immune_res__% CD8+ RO+ CCR6- total INFg+ d1,14,0.028
+species__Clostridium_sp_AF34_13,13,0.026
+kegg__K03570,13,0.026
+immune_res__% Dcs d0,13,0.026
+kegg__K06198,13,0.026
+immune_res__% CD4+ MAIT d6,13,0.026
+kegg__K03630,13,0.026
+metab__glycochenodeoxycholate 3-sulfate,13,0.026
+metab__dodecenedioate (C12:1-DC)*,13,0.026
+kegg__K01448,13,0.026
+kegg__K09459,13,0.026
+kegg__K15915,13,0.026
+kegg__K09964,12,0.024
+immune_res__CD8+ DN+ MAIT % RO- CD27- d0,12,0.024
+metab__X-21258,12,0.024
+kegg__K06013,12,0.024
+kegg__K00864,12,0.024
+immune_res__% CD4+ RO+ FOXP3+ INFg- TNFa+ IL-17+ d1,12,0.024
+kegg__K06196,12,0.024
+metab__X-11315,12,0.024
+kegg__K09973,12,0.024
+metab__alpha-tocopherol,12,0.024
+kegg__K02530,12,0.024
+immune_res__% CD8+ and DN MAIT,12,0.024
+immune_res__% CD8+ INFg+ IL4+ d1,11,0.022
+kegg__K13281,11,0.022
+metab__arginine,11,0.022
+metab__glycerophosphorylcholine (GPC),11,0.022
+metab__X-23780,11,0.022
+metab__erythritol,11,0.022
+metab__delta-CEHC,11,0.022
+metab__1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),11,0.022
+immune_res__% CD4+ RO+ CCR6+ INFg- IL-17+ d1,11,0.022
+kegg__K06994,11,0.022
+immune_res__% CD8+ RO+ CCR6- IL4+ GMCSF- d1,11,0.022
+metab__X-24418,11,0.022
+metab__1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,10,0.02
+species__Bacteroides_faecis,10,0.02
+kegg__K04794,10,0.02
+metab__N-oleoylserine,10,0.02
+immune_res__% CD8+ RO+ Va7.2- INFg+ TNFa- d6,10,0.02
+species__Bacteroides_xylanisolvens,10,0.02
+kegg__K19701,10,0.02
+kegg__K01821,10,0.02
+kegg__K11261,10,0.02
+kegg__K18216,10,0.02
+kegg__K06402,10,0.02
+metab__X-13007,10,0.02
+kegg__K07505,10,0.02
+kegg__K21012,10,0.02
+immune_res__% CD3- CD19- DR+ d0,10,0.02
+metab__tartarate,10,0.02
+species__GGB6601_SGB9333,10,0.02
+quest__HDL Cholesterol,10,0.02
+kegg__K03814,10,0.02
+kegg__K00150,10,0.02
+kegg__K03118,10,0.02
+kegg__K21011,9,0.018
+metab__X-24243,9,0.018
+metab__isovalerylcarnitine (C5),9,0.018
+quest__Platelet Count,9,0.018
+species__Roseburia_sp_AF02_12,9,0.018
+kegg__K07458,9,0.018
+kegg__K00663,9,0.018
+metab__docosapentaenoate (n3 DPA; 22:5n3),9,0.018
+metab__4-hydroxy-2-oxoglutaric acid,9,0.018
+metab__beta-cryptoxanthin,9,0.018
+kegg__K06934,9,0.018
+metab__linolenoylcarnitine (C18:3)*,9,0.018
+metab__X-17335,9,0.018
+metab__suberate (C8-DC),9,0.018
+species__Lachnospira_sp_NSJ_43,9,0.018
+kegg__K13573,8,0.016
+metab__deoxycholic acid 12-sulfate*,8,0.016
+quest__Chol/HDLC Ratio,8,0.016
+immune_res__% DN d6,8,0.016
+metab__lactosyl-N-palmitoyl-sphingosine (d18:1/16:0),8,0.016
+kegg__K01841,8,0.016
+metab__3-methylglutaconate,8,0.016
+kegg__K22468,8,0.016
+immune_res__% CD8+ M CCR7+ CXCR5+ d0,8,0.016
+kegg__K14761,8,0.016
+immune_res__% CD4+ CCR7+ RO- CCR4+ d0,8,0.016
+kegg__K07035,8,0.016
+metab__benzoate,8,0.016
+immune_res__% DN RO- CCR6- INFg- TNFa+ d1,8,0.016
+kegg__K19419,8,0.016
+metab__X-18886,8,0.016
+kegg__K05773,8,0.016
+immune_res__%DN MAIT d0,8,0.016
+kegg__K11646,8,0.016
+kegg__K03637,8,0.016
+immune_res__% viable CD3- CCR6- CD161+ INFg- d1,8,0.016
+metab__X-24337,8,0.016
+immune_res__% CD4+ RO+ INFg+ IL-17+ d1,8,0.016
+species__Bacteroides_ovatus,8,0.016
+kegg__K17363,8,0.016
+kegg__K02664,8,0.016
+species__Dorea_longicatena,8,0.016
+kegg__K00441,7,0.014
+metab__X-07765,7,0.014
+metab__guanidinoacetate,7,0.014
+kegg__K01308,7,0.014
+kegg__K22607,7,0.014
+"metab__5,6-dihydrouridine",7,0.014
+species__Acidaminococcus_intestini,7,0.014
+kegg__K05349,7,0.014
+kegg__K12685,7,0.014
+kegg__K05341,7,0.014
+species__Bacteroides_finegoldii,7,0.014
+kegg__K09960,7,0.014
+metab__palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]*,7,0.014
+kegg__K04486,7,0.014
+immune_res__DN % RO- CD27+ d0,7,0.014
+immune_res__% DN RO+ CCR6- INFg- TNFa+ d1,7,0.014
+metab__1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*,7,0.014
+immune_res__% CD4+ RO+ d6,7,0.014
+immune_res__% CD4+ RO+ CCR6+ INFg+ IL-17+ d1,7,0.014
+kegg__K01714,7,0.014
+metab__theobromine,7,0.014
+metab__X-24588,7,0.014
+kegg__K07317,7,0.014
+age,7,0.014
+kegg__K09811,6,0.012
+kegg__K07001,6,0.012
+metab__X-12411,6,0.012
+quest__LDL-Cholesterol,6,0.012
+kegg__K15520,6,0.012
+metab__X-15728,6,0.012
+metab__1-(1-enyl-palmitoyl)-GPE (P-16:0)*,6,0.012
+metab__adipoylcarnitine (C6-DC),6,0.012
+kegg__K01151,6,0.012
+quest__Carbon Dioxide,6,0.012
+metab__theophylline,6,0.012
+immune_res__Total gd Cells (gdTCR CD3hi + CD3lo),6,0.012
+kegg__K22431,6,0.012
+immune_res__% DN RO+ CCR6- total INFg+ d1,6,0.012
+kegg__K10010,6,0.012
+kegg__K03602,6,0.012
+metab__X-24748,6,0.012
+immune_res__% CD8+ MAIT INFg+ TNFa- d1,6,0.012
+immune_res__% CD8+ M CCR6+ CXCR3+ d0,6,0.012
+kegg__K03310,6,0.012
+quest__Albumin/Globulin Ratio,6,0.012
+kegg__K00338,6,0.012
+kegg__K04061,6,0.012
+"metab__sphingomyelin (d18:2/21:0, d16:2/23:0)*",6,0.012
+metab__taurine,6,0.012
+kegg__K02110,6,0.012
+kegg__K21814,6,0.012
+metab__gamma-glutamyl-epsilon-lysine,6,0.012
+metab__carnitine,6,0.012
+metab__N-stearoyl-sphinganine (d18:0/18:0)*,6,0.012
+kegg__K18785,6,0.012
+metab__azelate (C9-DC),6,0.012
+kegg__K23351,6,0.012
+kegg__K00054,5,0.01
+metab__X-11850,5,0.01
+"metab__sphingomyelin (d18:1/20:1, d18:2/20:0)*",5,0.01
+species__Blautia_massiliensis,5,0.01
+kegg__K05350,5,0.01
+kegg__K00243,5,0.01
+kegg__K17759,5,0.01
+immune_res__CD4:CD8 d0,5,0.01
+kegg__K21440,5,0.01
+kegg__K10200,5,0.01
+immune_res__% DN RO+ CCR6- INFg+ TNFa+ d1,5,0.01
+kegg__K10202,5,0.01
+kegg__K01465,5,0.01
+metab__oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*,5,0.01
+kegg__K15855,5,0.01
+kegg__K12269,5,0.01
+immune_res__% CD19+ CD3- CD27+ IgG+ d0,5,0.01
+metab__4-allylphenol sulfate,5,0.01
+metab__X-13431,5,0.01
+kegg__K03928,5,0.01
+kegg__K00712,5,0.01
+metab__glycochenodeoxycholate,5,0.01
+kegg__K01220,5,0.01
+metab__glycocholate glucuronide (1),5,0.01
+metab__6-bromotryptophan,5,0.01
+kegg__K01281,5,0.01
+metab__glycocholate,5,0.01
+kegg__K07590,5,0.01
+metab__5-acetylamino-6-amino-3-methyluracil,5,0.01
+kegg__K18907,5,0.01
+kegg__K01473,5,0.01
+kegg__K01060,5,0.01
+"metab__androstenediol (3alpha, 17alpha) monosulfate (2)",5,0.01
+species__Clostridiales_bacterium,5,0.01
+kegg__K07322,5,0.01
+kegg__K07636,5,0.01
+kegg__K00102,4,0.008
+kegg__K00791,4,0.008
+metab__sphingosine,4,0.008
+kegg__K03210,4,0.008
+metab__10-undecenoate (11:1n1),4,0.008
+kegg__K01607,4,0.008
+kegg__K07696,4,0.008
+kegg__K07217,4,0.008
+kegg__K22522,4,0.008
+immune_res__% CD4+ INFg+ TNFa- d6,4,0.008
+kegg__K02744,4,0.008
+kegg__K07089,4,0.008
+kegg__K07646,4,0.008
+species__GGB3293_SGB4348,4,0.008
+metab__ranitidine,4,0.008
+kegg__K17204,4,0.008
+"metab__sphingomyelin (d18:1/18:1, d18:2/18:0)",4,0.008
+kegg__K07257,4,0.008
+metab__glucuronide of C10H18O2 (7)*,4,0.008
+kegg__K03559,4,0.008
+metab__octadecenedioylcarnitine (C18:1-DC)*,4,0.008
+kegg__K19005,4,0.008
+kegg__K19710,4,0.008
+immune_res__DN % RO+ CD27+ d0,4,0.008
+kegg__K14415,4,0.008
+metab__X-17676,4,0.008
+kegg__K09799,4,0.008
+kegg__K14989,4,0.008
+kegg__K00100,4,0.008
+metab__gamma-glutamylmethionine,4,0.008
+kegg__K01297,4,0.008
+metab__X-12456,4,0.008
+"metab__bilirubin (Z,Z)",4,0.008
+kegg__K02106,4,0.008
+kegg__K01844,4,0.008
+metab__trans-4-hydroxyproline,4,0.008
+kegg__K03685,4,0.008
+kegg__K16139,4,0.008
+kegg__K10241,4,0.008
+immune_res__% CD4+ CCR7+ RO- CD31+ CXCR3- d0,4,0.008
+immune_res__% CD4+ RO+ CD161+ d6,4,0.008
+metab__tridecenedioate (C13:1-DC)*,4,0.008
+kegg__K17947,4,0.008
+metab__octadecadienedioate (C18:2-DC)*,4,0.008
+kegg__K00789,4,0.008
+kegg__K01728,4,0.008
+kegg__K18331,4,0.008
+immune_res__% CD8+ RO- CD27+ d0,4,0.008
+immune_res__% CD4+ RO+ CCR6+ d6,4,0.008
+kegg__K10194,4,0.008
+kegg__K18427,4,0.008
+kegg__K00817,4,0.008
+immune_res__% DN RO- CCR6- total TNFa+ d1,3,0.006
+kegg__K00013,3,0.006
+"metab__1,3-dimethylurate",3,0.006
+kegg__K01561,3,0.006
+kegg__K01241,3,0.006
+species__GGB9602_SGB15031,3,0.006
+kegg__K01092,3,0.006
+immune_res__% CD8+ RO+ CCR6+ IL-17+ INFg- d1,3,0.006
+metab__glutarate (C5-DC),3,0.006
+immune_res__% CD8+ total INFg+ d6,3,0.006
+metab__X-24812,3,0.006
+metab__sphingomyelin (d18:2/18:1)*,3,0.006
+metab__1-stearoyl-2-oleoyl-GPI (18:0/18:1)*,3,0.006
+kegg__K07003,3,0.006
+quest__Absolute Neutrophils,3,0.006
+kegg__K11358,3,0.006
+kegg__K19302,3,0.006
+kegg__K07151,3,0.006
+kegg__K20444,3,0.006
+kegg__K02086,3,0.006
+kegg__K01768,3,0.006
+metab__glyco-beta-muricholate**,3,0.006
+kegg__K00820,3,0.006
+metab__isobutyrylcarnitine (C4),3,0.006
+kegg__K13525,3,0.006
+species__GGB1681_SGB2313,3,0.006
+kegg__K19802,3,0.006
+kegg__K19545,3,0.006
+kegg__K10439,3,0.006
+immune_res__% CD8+ RO- Va7.2- total TNFa+ d6,3,0.006
+kegg__K23059,3,0.006
+kegg__K06911,3,0.006
+metab__1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,3,0.006
+kegg__K13611,3,0.006
+kegg__K21961,3,0.006
+quest__Calcium,3,0.006
+metab__X-12729,3,0.006
+kegg__K10117,3,0.006
+metab__N-acetylthreonine,3,0.006
+kegg__K01560,3,0.006
+immune_res__DN % RO- CD27- d0,3,0.006
+kegg__K07052,3,0.006
+kegg__K05832,3,0.006
+kegg__K07219,3,0.006
+kegg__K01788,3,0.006
+kegg__K11104,3,0.006
+metab__1-stearoyl-GPI (18:0),3,0.006
+kegg__K00248,3,0.006
+metab__pantoprazole,3,0.006
+kegg__K01277,3,0.006
+kegg__K02585,3,0.006
+metab__linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*,3,0.006
+kegg__K02017,3,0.006
+species__Ruminococcaceae_unclassified_SGB15265,3,0.006
+"metab__2,4-di-tert-butylphenol",3,0.006
+kegg__K00979,3,0.006
+kegg__K01501,3,0.006
+immune_res__% CD8+ IL-17+ INFg- d6,3,0.006
+metab__X-11843,3,0.006
+kegg__K19159,3,0.006
+kegg__K02009,3,0.006
+kegg__K01286,3,0.006
+kegg__K06320,3,0.006
+metab__p-cresol glucuronide*,3,0.006
+kegg__K06893,3,0.006
+"metab__1,7-dimethylurate",3,0.006
+immune_res__% CD4+ M CCR6+ CXCR3+ d0,3,0.006
+kegg__K16248,3,0.006
+kegg__K03658,3,0.006
+kegg__K00170,3,0.006
+metab__perfluorooctanoate (PFOA),3,0.006
+kegg__K21400,3,0.006
+kegg__K07016,3,0.006
+kegg__K07507,3,0.006
+kegg__K10794,3,0.006
+kegg__K00385,2,0.004
+kegg__K10682,2,0.004
+kegg__K06019,2,0.004
+kegg__K03090,2,0.004
+kegg__K17398,2,0.004
+kegg__K07862,2,0.004
+kegg__K04042,2,0.004
+kegg__K06902,2,0.004
+immune_res__% CD8+ M total CCR4+ d0,2,0.004
+kegg__K00939,2,0.004
+kegg__K02073,2,0.004
+kegg__K02834,2,0.004
+kegg__K01972,2,0.004
+kegg__K21416,2,0.004
+kegg__K06020,2,0.004
+quest__Absolute Basophils,2,0.004
+kegg__K09888,2,0.004
+immune_res__% CD4+ RO+ CCR6+ IL-22- IL-17+ d1,2,0.004
+kegg__K18330,2,0.004
+immune_res__total % CD8+ d0,2,0.004
+metab__perfluorooctanesulfonate (PFOS),2,0.004
+kegg__K09805,2,0.004
+kegg__K19158,2,0.004
+kegg__K00106,2,0.004
+kegg__K18118,2,0.004
+immune_res__% DN MAIT d6,2,0.004
+kegg__K23148,2,0.004
+metab__cholate,2,0.004
+kegg__K09706,2,0.004
+kegg__K00878,2,0.004
+kegg__K18350,2,0.004
+kegg__K00720,2,0.004
+kegg__K01783,2,0.004
+metab__X-21442,2,0.004
+metab__X-14939,2,0.004
+metab__11beta-hydroxyandrosterone glucuronide,2,0.004
+kegg__K00372,2,0.004
+kegg__K00459,2,0.004
+kegg__K07652,2,0.004
+kegg__K20885,2,0.004
+species__Phocaeicola_coprocola,2,0.004
+immune_res__% CD4+ IL-17- IL-22+ d6,2,0.004
+kegg__K09989,2,0.004
+metab__X-12740,2,0.004
+"metab__3,5-dichloro-2,6-dihydroxybenzoic acid",2,0.004
+kegg__K02230,2,0.004
+metab__X-23739,2,0.004
+metab__1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*,2,0.004
+kegg__K03497,2,0.004
+metab__gamma-glutamylleucine,2,0.004
+quest__Absolute Eosinophils,2,0.004
+kegg__K05571,2,0.004
+kegg__K11741,2,0.004
+kegg__K07078,2,0.004
+kegg__K16962,2,0.004
+metab__3-hydroxydecanoylcarnitine,2,0.004
+kegg__K18214,2,0.004
+kegg__K10009,2,0.004
+kegg__K08321,2,0.004
+kegg__K10039,2,0.004
+metab__eicosapentaenoate (EPA; 20:5n3),2,0.004
+kegg__K00368,2,0.004
+immune_res__viable total CD8+ d6,2,0.004
+kegg__K02385,2,0.004
+immune_res__% CD8+ RO+ CD31+ CD27+ d0,2,0.004
+metab__gamma-tocopherol/beta-tocopherol,2,0.004
+metab__N-palmitoyl-sphingadienine (d18:2/16:0)*,2,0.004
+kegg__K18930,2,0.004
+kegg__K20483,2,0.004
+kegg__K22902,2,0.004
+kegg__K01902,2,0.004
+kegg__K06330,2,0.004
+immune_res__% CD8+ RO- CCR6- total INFg+ d1,2,0.004
+immune_res__% CD4+ M CD25- CD27+ d0,2,0.004
+metab__thymol sulfate,2,0.004
+immune_res__% CD4+ RO+ total INFg+ d1 P13,2,0.004
+immune_res__% CD8+ IL-17- INFg+ d6,2,0.004
+metab__2-hydroxynervonate*,2,0.004
+kegg__K13015,2,0.004
+kegg__K12292,2,0.004
+kegg__K22477,2,0.004
+kegg__K00558,2,0.004
+kegg__K02655,2,0.004
+kegg__K06223,2,0.004
+kegg__K00942,2,0.004
+kegg__K00561,2,0.004
+immune_res__% CD8+ MAIT INFg- TNFa+ d1,2,0.004
+species__GGB6613_SGB9347,2,0.004
+metab__N-methylhydroxyproline**,2,0.004
+kegg__K15898,2,0.004
+kegg__K19431,2,0.004
+kegg__K07813,2,0.004
+kegg__K02340,2,0.004
+kegg__K00616,2,0.004
+"metab__fibrinopeptide A, phosphono-ser(3)*",2,0.004
+kegg__K14088,2,0.004
+metab__glutamine conjugate of C6H10O2 (2)*,2,0.004
+kegg__K02531,2,0.004
+metab__caffeine,2,0.004
+kegg__K19425,2,0.004
+kegg__K19171,2,0.004
+kegg__K10742,2,0.004
+kegg__K07498,2,0.004
+kegg__K07270,2,0.004
+kegg__K01903,2,0.004
+kegg__K14623,2,0.004
+kegg__K07084,2,0.004
+kegg__K02389,2,0.004
+kegg__K12410,2,0.004
+kegg__K11004,2,0.004
+immune_res__% CD8+ RO+ Va7.2- total INFg+ d6,2,0.004
+metab__docosadioate (C22-DC),2,0.004
+metab__acisoga,2,0.004
+kegg__K16214,2,0.004
+kegg__K10979,2,0.004
+kegg__K02419,2,0.004
+kegg__K12978,2,0.004
+"metab__androstenediol (3beta,17beta) monosulfate (2)",2,0.004
+metab__octadecanedioate (C18-DC),2,0.004
+kegg__K17103,2,0.004
+kegg__K00613,2,0.004
+metab__16-hydroxypalmitate,2,0.004
+immune_res__%CD8+ MAIT d6,2,0.004
+kegg__K03430,2,0.004
+kegg__K02001,2,0.004
+kegg__K03739,2,0.004
+metab__oleoyl-linoleoyl-glycerol (18:1/18:2) [2],2,0.004
+kegg__K19115,2,0.004
+kegg__K16937,1,0.002
+immune_res__DN % RO+ CD27- d0,1,0.002
+"metab__2,6-dihydroxybenzoic acid",1,0.002
+metab__X-21467,1,0.002
+kegg__K18008,1,0.002
+kegg__K22349,1,0.002
+metab__beta-hydroxyisovalerate,1,0.002
+metab__1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*,1,0.002
+species__Lachnospiraceae_bacterium_WCA3_601_WT_6H,1,0.002
+kegg__K02123,1,0.002
+kegg__K18104,1,0.002
+kegg__K21750,1,0.002
+kegg__K18545,1,0.002
+immune_res__% CD19+ CD3- d0,1,0.002
+metab__X-18899,1,0.002
+kegg__K08987,1,0.002
+metab__methyl glucopyranoside (alpha + beta),1,0.002
+metab__omeprazole,1,0.002
+metab__5-oxoproline,1,0.002
+metab__X-24728,1,0.002
+kegg__K02316,1,0.002
+kegg__K19090,1,0.002
+immune_res__CD8+ MAIT % RO+ CD27+ d0,1,0.002
+kegg__K17242,1,0.002
+kegg__K00132,1,0.002
+kegg__K14982,1,0.002
+metab__acetylcarnitine (C2),1,0.002
+kegg__K13931,1,0.002
+kegg__K07096,1,0.002
+kegg__K00945,1,0.002
+metab__glutamine conjugate of C6H10O2 (1)*,1,0.002
+immune_res__% CD4+ RO+ CCR6- d6,1,0.002
+metab__X-12193,1,0.002
+metab__X-12462,1,0.002
+metab__methionine sulfone,1,0.002
+kegg__K02420,1,0.002
+kegg__K06194,1,0.002
+kegg__K07707,1,0.002
+kegg__K08972,1,0.002
+immune_res__% CD4+ INFg+ TNFa+ d6,1,0.002
+metab__2-aminooctanoate,1,0.002
+"metab__1,2-dipalmitoyl-GPC (16:0/16:0)",1,0.002
+metab__N-acetyl-isoputreanine,1,0.002
+metab__1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*,1,0.002
+kegg__K07129,1,0.002
+kegg__K00981,1,0.002
+kegg__K02591,1,0.002
+kegg__K21055,1,0.002
+kegg__K00728,1,0.002
+kegg__K00854,1,0.002
+metab__myristoylcarnitine (C14),1,0.002
+species__GGB6608_SGB9342,1,0.002
+metab__fructose,1,0.002
+metab__glucuronide of piperine metabolite C17H21NO3 (4)*,1,0.002
+kegg__K01653,1,0.002
+kegg__K09022,1,0.002
+metab__X-24747,1,0.002
+metab__indoleacetoylcarnitine*,1,0.002
+kegg__K18430,1,0.002
+kegg__K07214,1,0.002
+kegg__K21464,1,0.002
+kegg__K09124,1,0.002
+metab__undecenoylcarnitine (C11:1),1,0.002
+kegg__K16788,1,0.002
+kegg__K19049,1,0.002
+kegg__K18221,1,0.002
+kegg__K22579,1,0.002
+kegg__K07533,1,0.002
+metab__2-hydroxy-4-(methylthio)butanoic acid,1,0.002
+species__Gemmiger_formicilis,1,0.002
+metab__1-palmitoyl-2-oleoyl-GPC (16:0/18:1),1,0.002
+quest__Sed Rate,1,0.002
+kegg__K01114,1,0.002
+kegg__K13919,1,0.002
+species__Collinsella_aerofaciens,1,0.002
+kegg__K21746,1,0.002
+kegg__K07319,1,0.002
+immune_res__% CD4+ RO+ total IL-17+ d1,1,0.002
+metab__decadienedioic acid (C10:2-DC)**,1,0.002
+kegg__K01729,1,0.002
+kegg__K04076,1,0.002
+kegg__K10947,1,0.002
+kegg__K12990,1,0.002
+immune_res__% CD8+ MAIT IL-17- INFg+ d6,1,0.002
+kegg__K00980,1,0.002
+kegg__K03219,1,0.002
+kegg__K02404,1,0.002
+kegg__K09167,1,0.002
+metab__ursodeoxycholate,1,0.002
+metab__N-formylmethionine,1,0.002
+metab__X-24475,1,0.002
+kegg__K18234,1,0.002
+kegg__K00762,1,0.002
+immune_res__viable CD8+ MAIT d6,1,0.002
+kegg__K06969,1,0.002
+kegg__K01218,1,0.002
+kegg__K02107,1,0.002
+kegg__K05823,1,0.002
+kegg__K18123,1,0.002
+metab__X-11847,1,0.002
+metab__3-aminoisobutyrate,1,0.002
+metab__pro-hydroxy-pro,1,0.002
+metab__X-24949,1,0.002
+kegg__K02556,1,0.002
+kegg__K02825,1,0.002
+kegg__K03274,1,0.002
+kegg__K16960,1,0.002
+kegg__K03337,1,0.002
+kegg__K06446,1,0.002
+kegg__K11070,1,0.002
+kegg__K03409,1,0.002
+kegg__K07460,1,0.002
+kegg__K02236,1,0.002
+metab__deoxycholate,1,0.002
+kegg__K00768,1,0.002
+immune_res__% CD3- CD19- CD14+ CD16+,1,0.002
+metab__X-24801,1,0.002
+kegg__K02000,1,0.002
+kegg__K03924,1,0.002
+kegg__K18119,1,0.002
+metab__X-25343,1,0.002
+kegg__K04767,1,0.002
+kegg__K17195,1,0.002
+kegg__K00658,1,0.002
+metab__N-acetyltaurine,1,0.002
+kegg__K09768,1,0.002
+metab__behenoylcarnitine (C22)*,1,0.002
+kegg__K21467,1,0.002
+immune_res__% CD3- CD19- DR+ CD14+ d0,1,0.002
+kegg__K02437,1,0.002
+immune_res__% CD4+ RO+ CCR6- total INFg+ d6,1,0.002
+kegg__K10778,1,0.002
+kegg__K07101,1,0.002
+kegg__K01991,1,0.002
+metab__eicosenoate (20:1),1,0.002
+kegg__K05516,1,0.002
+species__Blautia_wexlerae,1,0.002
+metab__X-13553,1,0.002
+kegg__K02069,1,0.002
+metab__erythronate*,1,0.002
+kegg__K13652,1,0.002
+metab__3-methoxycatechol sulfate (1),1,0.002
+metab__X-25279,1,0.002
+kegg__K01666,1,0.002
+kegg__K07451,1,0.002
+immune_res__CD8+ MAIT % RO+ CD27- d0,1,0.002
+kegg__K12733,1,0.002
+kegg__K09685,1,0.002
+metab__caproate (6:0),1,0.002
+metab__3-(3-hydroxyphenyl)propionate,1,0.002
+metab__docosadienoate (22:2n6),1,0.002
+kegg__K10716,1,0.002
+kegg__K01750,1,0.002
+kegg__K00384,1,0.002
+kegg__K18831,1,0.002
+"metab__1,3,7-trimethylurate",1,0.002
+metab__N-acetyltryptophan,1,0.002
+metab__N-formylanthranilic acid,1,0.002
+kegg__K09793,1,0.002
+kegg__K02421,1,0.002
+kegg__K00784,1,0.002
+kegg__K07474,1,0.002
+kegg__K00943,1,0.002
+kegg__K06941,1,0.002
+metab__X-25265,1,0.002
+metab__17alpha-hydroxypregnenolone 3-sulfate,1,0.002
+"metab__bilirubin (E,Z or Z,E)*",1,0.002
+species__Alistipes_ihumii,1,0.002
+kegg__K00626,1,0.002
+kegg__K03326,1,0.002
+kegg__K04565,1,0.002
+"metab__1,5-anhydroglucitol (1,5-AG)",1,0.002
+kegg__K17758,1,0.002
+metab__3beta-hydroxy-5-cholestenoate,1,0.002
+kegg__K02244,1,0.002
+kegg__K22933,1,0.002
+immune_res__% CD14+ d0,1,0.002
+species__Ruminococcus_lactaris,1,0.002
+kegg__K01950,1,0.002
+kegg__K11105,1,0.002
+metab__taurolithocholate 3-sulfate,1,0.002
+metab__glucuronide of C10H18O2 (8)*,1,0.002
+kegg__K16906,1,0.002
+kegg__K07161,1,0.002
+species__Anaerobutyricum_hallii,1,0.002
+kegg__K14155,1,0.002
+kegg__K00567,1,0.002
+kegg__K03830,1,0.002
+kegg__K14192,1,0.002
+species__GGB9342_SGB14306,1,0.002
+species__Bacteroides_thetaiotaomicron,1,0.002
+metab__citraconate/glutaconate,1,0.002
+kegg__K04561,1,0.002
+kegg__K06996,1,0.002
+kegg__K11689,1,0.002
+metab__1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6),1,0.002
+kegg__K07318,1,0.002
+kegg__K06392,1,0.002
+kegg__K14988,1,0.002
+immune_res__% CD8+ total TNFa+ d1,1,0.002
+kegg__K00096,1,0.002
+immune_res__% CD8+ IL-17+ IL-22- d6,1,0.002
+species__Bacteroides_eggerthii,1,0.002
+metab__4-hydroxyhippurate,1,0.002
+kegg__K03851,1,0.002
+kegg__K12240,1,0.002
+kegg__K10006,1,0.002
+kegg__K07484,1,0.002
+kegg__K02796,1,0.002
+kegg__K01499,1,0.002
+immune_res__total % CD4+ d6,1,0.002
+kegg__K19422,1,0.002
+kegg__K01223,1,0.002
+kegg__K22226,1,0.002
+kegg__K07126,1,0.002
+kegg__K17865,1,0.002
+metab__N6-methyllysine,1,0.002
+kegg__K01918,1,0.002
+kegg__K19429,1,0.002
+metab__X-16576,1,0.002
+metab__octanoylcarnitine (C8),1,0.002
+metab__nonanoylcarnitine (C9),1,0.002
+immune_res__% CD4+ RO+ INFg- IL-17+ d1,1,0.002
+immune_res__% CD4+ RO+ CCR6+ CD161+ IL-17+ INFg- d6,1,0.002
+kegg__K02416,1,0.002
+metab__dimethylarginine (SDMA + ADMA),1,0.002
+kegg__K10797,1,0.002
+metab__phenol sulfate,1,0.002
+kegg__K07316,1,0.002
+kegg__K07079,1,0.002
+kegg__K19050,1,0.002
+species__Alistipes_finegoldii,1,0.002
+immune_res__CD3+ gdTCR+ CD3lo,1,0.002
+kegg__K12556,1,0.002
+metab__N-acetylcarnosine,1,0.002
+kegg__K15600,1,0.002

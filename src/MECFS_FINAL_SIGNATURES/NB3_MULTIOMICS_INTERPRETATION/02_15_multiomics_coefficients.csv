@@ -1,0 +1,16 @@
+feature,coefficient
+metab__N-acetylglutamate,1.0405198473574377
+metab__vanillylmandelate (VMA),-0.9993613311055161
+kegg__K02121,0.9838858772355674
+metab__N4-acetylcytidine,0.9601106222680448
+quest__Vitamin B12,0.8658843846170533
+metab__3-(4-hydroxyphenyl)lactate,-0.6801538039524777
+metab__1-methylurate,-0.6357370383023946
+immune_res__% CD8+ M CCR6+ CXCR3- d0,0.614209457427315
+species__GGB1266_SGB1699,-0.61419932346574
+metab__N-palmitoyl-sphingosine (d18:1/16:0),0.5727940087359931
+species__Dysosmobacter_welbionis,0.5218406738896926
+"metab__sphingomyelin (d18:1/24:1, d18:2/24:0)*",0.4845199457798957
+metab__N-acetylglucosamine/N-acetylgalactosamine,0.38386060632586283
+metab__1-stearoyl-2-oleoyl-GPC (18:0/18:1),0.2736182640410729
+metab__1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),0.24101850099416672

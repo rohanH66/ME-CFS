@@ -1,0 +1,16 @@
+rank,feature,modality
+1,quest__Vitamin B12,quest
+2,metab__N-acetylglutamate,metab
+3,species__Dysosmobacter_welbionis,species
+4,metab__N4-acetylcytidine,metab
+5,metab__N-palmitoyl-sphingosine (d18:1/16:0),metab
+6,metab__3-(4-hydroxyphenyl)lactate,metab
+7,species__GGB1266_SGB1699,species
+8,"metab__sphingomyelin (d18:1/24:1, d18:2/24:0)*",metab
+9,metab__vanillylmandelate (VMA),metab
+10,metab__1-methylurate,metab
+11,metab__1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),metab
+12,species__Faecalibacterium_SGB15346,species
+13,immune_res__NK Cells (% CD3- 2B4+),immune_res
+14,immune_pct__NK Cells (% CD3- 2B4+),immune_pct
+15,species__Phocaeicola_plebeius,species
