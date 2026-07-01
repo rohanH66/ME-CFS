@@ -1,11 +1,11 @@
 feature,coefficient
-1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),0.4764160467496013
 N-acetylglutamate,0.893791708637001
 N4-acetylcytidine,0.8206126794270822
-"sphingomyelin (d18:1/24:1, d18:2/24:0)*",0.47555780519566176
-1-methylurate,-0.5040327603481259
-N-palmitoyl-sphingosine (d18:1/16:0),0.565130257475055
 3-(4-hydroxyphenyl)lactate,-0.7337653593064924
-N-acetylglucosamine/N-acetylgalactosamine,0.43635637008599193
 vanillylmandelate (VMA),-0.723151696107733
+N-palmitoyl-sphingosine (d18:1/16:0),0.565130257475055
+1-methylurate,-0.5040327603481259
+1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),0.4764160467496013
+"sphingomyelin (d18:1/24:1, d18:2/24:0)*",0.47555780519566176
+N-acetylglucosamine/N-acetylgalactosamine,0.43635637008599193
 4-vinylguaiacol sulfate,-0.2529329490458
